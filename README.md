@@ -27,3 +27,4 @@ half-open intervals. See each implementation for its exact contract.
 | # | Problem | Complexity | Notes |
 |---|---|---|---|
 | 1 | [Two sum](arrays/two_sum.py) | O(n) time, O(n) space | [Explanation](notes/two_sum.md) |
+| 2 | [Maximum subarray sum](arrays/max_subarray.py) | O(n) time, O(1) space | [Explanation](notes/max_subarray.md) |
