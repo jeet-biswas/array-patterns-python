@@ -56,3 +56,4 @@ half-open intervals. See each implementation for its exact contract.
 | 28 | [Kth largest array element](arrays/kth_largest.py) | O(n log(k + 1)) time, O(k) space | [Explanation](notes/kth_largest.md) |
 | 29 | [Merge overlapping closed intervals](arrays/merge_intervals.py) | O(n log n) time, O(n) space | [Explanation](notes/merge_intervals.md) |
 | 30 | [Smallest missing positive integer](arrays/smallest_missing_positive.py) | O(n) time, O(1) space | [Explanation](notes/smallest_missing_positive.md) |
+| 31 | [Maximum circular subarray sum](arrays/max_circular_subarray.py) | O(n) time, O(1) space | [Explanation](notes/max_circular_subarray.md) |
