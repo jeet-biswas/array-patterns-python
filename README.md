@@ -59,3 +59,4 @@ half-open intervals. See each implementation for its exact contract.
 | 31 | [Maximum circular subarray sum](arrays/max_circular_subarray.py) | O(n) time, O(1) space | [Explanation](notes/max_circular_subarray.md) |
 | 32 | [Sum of every subarray minimum](arrays/sum_subarray_minimums.py) | O(n) time, O(n) space | [Explanation](notes/sum_subarray_minimums.md) |
 | 33 | [Minimum forward jumps to the last index](arrays/min_jumps.py) | O(n) time, O(1) space | [Explanation](notes/min_jumps.md) |
+| 34 | [Count inversions using merge sort](arrays/inversion_count.py) | O(n log n) time, O(n) space | [Explanation](notes/inversion_count.md) |
