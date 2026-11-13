@@ -48,3 +48,4 @@ half-open intervals. See each implementation for its exact contract.
 | 20 | [Container with most water](arrays/max_container_area.py) | O(n) time, O(1) space | [Explanation](notes/max_container_area.md) |
 | 21 | [Sorted squares of a sorted array](arrays/sorted_squares.py) | O(n) time, O(n) output space | [Explanation](notes/sorted_squares.md) |
 | 22 | [Unique zero-sum triplets](arrays/three_sum.py) | O(n squared) time, O(n) auxiliary space plus output | [Explanation](notes/three_sum.md) |
+| 23 | [Maximum product subarray](arrays/max_product_subarray.py) | O(n) arithmetic operations, O(1) space | [Explanation](notes/max_product_subarray.md) |
