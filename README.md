@@ -50,3 +50,4 @@ half-open intervals. See each implementation for its exact contract.
 | 22 | [Unique zero-sum triplets](arrays/three_sum.py) | O(n squared) time, O(n) auxiliary space plus output | [Explanation](notes/three_sum.md) |
 | 23 | [Maximum product subarray](arrays/max_product_subarray.py) | O(n) arithmetic operations, O(1) space | [Explanation](notes/max_product_subarray.md) |
 | 24 | [Shortest subarray reaching a positive target](arrays/min_length_sum.py) | O(n) time, O(1) space | [Explanation](notes/min_length_sum.md) |
+| 25 | [Longest subarray with an exact sum](arrays/longest_subarray_sum.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_subarray_sum.md) |
