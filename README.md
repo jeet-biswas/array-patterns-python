@@ -53,3 +53,4 @@ half-open intervals. See each implementation for its exact contract.
 | 25 | [Longest subarray with an exact sum](arrays/longest_subarray_sum.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_subarray_sum.md) |
 | 26 | [First equilibrium index](arrays/pivot_index.py) | O(n) time, O(1) space | [Explanation](notes/pivot_index.md) |
 | 27 | [Multiset intersection of sorted arrays](arrays/intersect_sorted.py) | O(n + m) time, O(min(n, m)) output space | [Explanation](notes/intersect_sorted.md) |
+| 28 | [Kth largest array element](arrays/kth_largest.py) | O(n log(k + 1)) time, O(k) space | [Explanation](notes/kth_largest.md) |
