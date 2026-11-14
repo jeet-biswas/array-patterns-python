@@ -71,3 +71,4 @@ half-open intervals. See each implementation for its exact contract.
 | 43 | [Days until a warmer temperature](arrays/daily_temperatures.py) | O(n) time, O(n) space | [Explanation](notes/daily_temperatures.md) |
 | 44 | [Largest rectangle in a histogram](arrays/largest_histogram_rectangle.py) | O(n) time, O(n) space | [Explanation](notes/largest_histogram_rectangle.md) |
 | 45 | [Maximum width ramp](arrays/max_width_ramp.py) | O(n) time, O(n) space | [Explanation](notes/max_width_ramp.md) |
+| 46 | [Shortest window that needs sorting](arrays/shortest_unsorted_window.py) | O(n) time, O(1) space | [Explanation](notes/shortest_unsorted_window.md) |
