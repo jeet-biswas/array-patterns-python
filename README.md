@@ -81,3 +81,4 @@ half-open intervals. See each implementation for its exact contract.
 | 53 | [Kth missing positive integer in a sorted array](arrays/kth_missing_positive.py) | O(log(n + 1)) time, O(1) space | [Explanation](notes/kth_missing_positive.md) |
 | 54 | [Best sum of two fixed-length disjoint subarrays](arrays/max_sum_two_nonoverlapping.py) | O(n) time, O(n) space | [Explanation](notes/max_sum_two_nonoverlapping.md) |
 | 55 | [Apply many range increments with a difference array](arrays/range_additions.py) | O(n + q) time, O(n) space | [Explanation](notes/range_additions.md) |
+| 56 | [Best pair score with a distance penalty](arrays/best_sightseeing_pair.py) | O(n) time, O(1) space | [Explanation](notes/best_sightseeing_pair.md) |
