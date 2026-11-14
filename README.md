@@ -63,3 +63,4 @@ half-open intervals. See each implementation for its exact contract.
 | 35 | [Search a rotated sorted array](arrays/search_rotated.py) | O(log n) time, O(1) space | [Explanation](notes/search_rotated.md) |
 | 36 | [Minimum arbitrary swaps to group ones](arrays/min_swaps_group_ones.py) | O(n) time, O(1) space | [Explanation](notes/min_swaps_group_ones.md) |
 | 37 | [Unique quadruplets with a target sum](arrays/four_sum.py) | O(n cubed) time, O(n) auxiliary space plus output | [Explanation](notes/four_sum.md) |
+| 38 | [Closest triplet sum with deterministic ties](arrays/three_sum_closest.py) | O(n squared) time, O(n) space | [Explanation](notes/three_sum_closest.md) |
