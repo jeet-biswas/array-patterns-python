@@ -67,3 +67,4 @@ half-open intervals. See each implementation for its exact contract.
 | 39 | [Maximum sum of nonadjacent elements](arrays/max_non_adjacent_sum.py) | O(n) time, O(1) space | [Explanation](notes/max_non_adjacent_sum.md) |
 | 40 | [Length of a strictly increasing subsequence](arrays/lis_length.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/lis_length.md) |
 | 41 | [Count smaller elements to the right](arrays/count_smaller_right.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/count_smaller_right.md) |
+| 42 | [Next strictly greater element on the right](arrays/next_greater_right.py) | O(n) time, O(n) space | [Explanation](notes/next_greater_right.md) |
