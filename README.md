@@ -78,3 +78,4 @@ half-open intervals. See each implementation for its exact contract.
 | 50 | [Count subarrays with exactly k distinct values](arrays/subarrays_exactly_k_distinct.py) | Expected O(n) time, O(min(n, k)) space | [Explanation](notes/subarrays_exactly_k_distinct.md) |
 | 51 | [Shortest qualifying subarray with signed values](arrays/shortest_subarray_signed.py) | O(n) time, O(n) space | [Explanation](notes/shortest_subarray_signed.md) |
 | 52 | [Median of two sorted arrays](arrays/median_two_sorted.py) | O(log(min(n, m) + 1)) time, O(1) space | [Explanation](notes/median_two_sorted.md) |
+| 53 | [Kth missing positive integer in a sorted array](arrays/kth_missing_positive.py) | O(log(n + 1)) time, O(1) space | [Explanation](notes/kth_missing_positive.md) |
