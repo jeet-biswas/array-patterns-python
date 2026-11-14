@@ -73,3 +73,4 @@ half-open intervals. See each implementation for its exact contract.
 | 45 | [Maximum width ramp](arrays/max_width_ramp.py) | O(n) time, O(n) space | [Explanation](notes/max_width_ramp.md) |
 | 46 | [Shortest window that needs sorting](arrays/shortest_unsorted_window.py) | O(n) time, O(1) space | [Explanation](notes/shortest_unsorted_window.md) |
 | 47 | [Count subarrays divisible by a modulus](arrays/count_subarrays_divisible.py) | Expected O(n) time, O(min(n, k)) space | [Explanation](notes/count_subarrays_divisible.md) |
+| 48 | [Longest subarray with equal zeros and ones](arrays/longest_balanced_binary.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_balanced_binary.md) |
