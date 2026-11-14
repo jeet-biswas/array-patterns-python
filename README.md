@@ -76,3 +76,4 @@ half-open intervals. See each implementation for its exact contract.
 | 48 | [Longest subarray with equal zeros and ones](arrays/longest_balanced_binary.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_balanced_binary.md) |
 | 49 | [Longest ones window after limited flips](arrays/longest_ones_after_flips.py) | O(n) time, O(1) space | [Explanation](notes/longest_ones_after_flips.md) |
 | 50 | [Count subarrays with exactly k distinct values](arrays/subarrays_exactly_k_distinct.py) | Expected O(n) time, O(min(n, k)) space | [Explanation](notes/subarrays_exactly_k_distinct.md) |
+| 51 | [Shortest qualifying subarray with signed values](arrays/shortest_subarray_signed.py) | O(n) time, O(n) space | [Explanation](notes/shortest_subarray_signed.md) |
