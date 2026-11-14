@@ -64,3 +64,4 @@ half-open intervals. See each implementation for its exact contract.
 | 36 | [Minimum arbitrary swaps to group ones](arrays/min_swaps_group_ones.py) | O(n) time, O(1) space | [Explanation](notes/min_swaps_group_ones.md) |
 | 37 | [Unique quadruplets with a target sum](arrays/four_sum.py) | O(n cubed) time, O(n) auxiliary space plus output | [Explanation](notes/four_sum.md) |
 | 38 | [Closest triplet sum with deterministic ties](arrays/three_sum_closest.py) | O(n squared) time, O(n) space | [Explanation](notes/three_sum_closest.md) |
+| 39 | [Maximum sum of nonadjacent elements](arrays/max_non_adjacent_sum.py) | O(n) time, O(1) space | [Explanation](notes/max_non_adjacent_sum.md) |
