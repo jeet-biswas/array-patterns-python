@@ -98,3 +98,4 @@ half-open intervals. See each implementation for its exact contract.
 | 70 | [Maximum absolute subarray sum](arrays/max_absolute_subarray.py) | O(n) time, O(1) space | [Explanation](notes/max_absolute_subarray.md) |
 | 71 | [Maximum sum strictly increasing subsequence](arrays/max_sum_increasing_subsequence.py) | O(n squared) time, O(n) space | [Explanation](notes/max_sum_increasing_subsequence.md) |
 | 72 | [Count longest increasing subsequences](arrays/count_lis.py) | O(n squared) time, O(n) space | [Explanation](notes/count_lis.md) |
+| 73 | [Longest arithmetic subsequence](arrays/longest_arithmetic_subsequence.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/longest_arithmetic_subsequence.md) |
