@@ -93,3 +93,4 @@ half-open intervals. See each implementation for its exact contract.
 | 65 | [Longest strict mountain subarray](arrays/longest_mountain.py) | O(n) time, O(1) space | [Explanation](notes/longest_mountain.md) |
 | 66 | [Smallest ordered prefix-suffix partition](arrays/partition_disjoint.py) | O(n) time, O(1) space | [Explanation](notes/partition_disjoint.md) |
 | 67 | [Maximum independently sortable chunks](arrays/max_chunks_sorted.py) | O(n) time, O(n) space | [Explanation](notes/max_chunks_sorted.md) |
+| 68 | [Minimum increments to make values unique](arrays/min_increment_unique.py) | O(n log n) time, O(n) space | [Explanation](notes/min_increment_unique.md) |
