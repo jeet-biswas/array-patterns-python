@@ -90,3 +90,4 @@ half-open intervals. See each implementation for its exact contract.
 | 62 | [Increment a decimal digit array](arrays/plus_one.py) | O(n) time, O(n) output space | [Explanation](notes/plus_one.md) |
 | 63 | [Add two decimal digit arrays](arrays/add_digit_arrays.py) | O(n + m) time, O(max(n, m)) output space | [Explanation](notes/add_digit_arrays.md) |
 | 64 | [Generate one row of Pascal triangle](arrays/pascal_row.py) | O(n squared) arithmetic operations, O(n) space | [Explanation](notes/pascal_row.md) |
+| 65 | [Longest strict mountain subarray](arrays/longest_mountain.py) | O(n) time, O(1) space | [Explanation](notes/longest_mountain.md) |
