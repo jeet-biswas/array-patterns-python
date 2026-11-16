@@ -86,3 +86,4 @@ half-open intervals. See each implementation for its exact contract.
 | 58 | [Minimum in a rotated array with duplicates](arrays/find_min_rotated.py) | O(log n) typical, O(n) worst-case time, O(1) space | [Explanation](notes/find_min_rotated.md) |
 | 59 | [Find a strict local peak](arrays/peak_index.py) | O(log(n + 1)) time, O(1) space | [Explanation](notes/peak_index.md) |
 | 60 | [Duplicate zeros in a fixed-length array](arrays/duplicate_zeros.py) | O(n) time, O(1) space | [Explanation](notes/duplicate_zeros.md) |
+| 61 | [Merge sorted arrays into an existing buffer](arrays/merge_into_buffer.py) | O(n + m) time, O(1) space | [Explanation](notes/merge_into_buffer.md) |
