@@ -106,3 +106,4 @@ half-open intervals. See each implementation for its exact contract.
 | 78 | [Partition an array into equal-sum subsets](arrays/can_partition_equal_subset.py) | O(nT) time, O(T) space | [Explanation](notes/can_partition_equal_subset.md) |
 | 79 | [Count subsets with a target sum](arrays/subset_sum_count.py) | Expected O(nR) time, O(R) space | [Explanation](notes/subset_sum_count.md) |
 | 80 | [Maximum subarray sum with at most one deletion](arrays/max_subarray_one_deletion.py) | O(n) time, O(1) space | [Explanation](notes/max_subarray_one_deletion.md) |
+| 81 | [Maximum stock profit with a one-day cooldown](arrays/max_profit_cooldown.py) | O(n) time, O(1) space | [Explanation](notes/max_profit_cooldown.md) |
