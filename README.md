@@ -104,3 +104,4 @@ half-open intervals. See each implementation for its exact contract.
 | 76 | [Minimize the largest contiguous partition sum](arrays/split_array_min_largest_sum.py) | O(n log(S + 1)) time, O(1) space | [Explanation](notes/split_array_min_largest_sum.md) |
 | 77 | [Maximize minimum distance between selected positions](arrays/max_min_distance.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/max_min_distance.md) |
 | 78 | [Partition an array into equal-sum subsets](arrays/can_partition_equal_subset.py) | O(nT) time, O(T) space | [Explanation](notes/can_partition_equal_subset.md) |
+| 79 | [Count subsets with a target sum](arrays/subset_sum_count.py) | Expected O(nR) time, O(R) space | [Explanation](notes/subset_sum_count.md) |
