@@ -102,3 +102,4 @@ half-open intervals. See each implementation for its exact contract.
 | 74 | [Count contiguous arithmetic slices](arrays/arithmetic_slices.py) | O(n) time, O(1) space | [Explanation](notes/arithmetic_slices.md) |
 | 75 | [Maximum subset sum divisible by three](arrays/max_sum_divisible_three.py) | O(n) time, O(1) space | [Explanation](notes/max_sum_divisible_three.md) |
 | 76 | [Minimize the largest contiguous partition sum](arrays/split_array_min_largest_sum.py) | O(n log(S + 1)) time, O(1) space | [Explanation](notes/split_array_min_largest_sum.md) |
+| 77 | [Maximize minimum distance between selected positions](arrays/max_min_distance.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/max_min_distance.md) |
