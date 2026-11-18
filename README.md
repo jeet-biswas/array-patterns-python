@@ -120,3 +120,4 @@ half-open intervals. See each implementation for its exact contract.
 | 92 | [Next greater values in a circular array](arrays/circular_next_greater.py) | O(n) time, O(n) space | [Explanation](notes/circular_next_greater.md) |
 | 93 | [Resolve one-dimensional asteroid collisions](arrays/asteroid_collision.py) | O(n) time, O(n) space | [Explanation](notes/asteroid_collision.md) |
 | 94 | [Apply the first eligible future price discount](arrays/final_discount_prices.py) | O(n) time, O(n) space | [Explanation](notes/final_discount_prices.md) |
+| 95 | [Compute consecutive backward stock spans](arrays/stock_spans.py) | O(n) time, O(n) space | [Explanation](notes/stock_spans.md) |
