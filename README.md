@@ -114,3 +114,4 @@ half-open intervals. See each implementation for its exact contract.
 | 86 | [Count subarrays with exact minimum and maximum](arrays/count_fixed_bounds.py) | O(n) time, O(1) space | [Explanation](notes/count_fixed_bounds.md) |
 | 87 | [Maximum frequency after limited increments](arrays/max_frequency_increments.py) | O(n log n) time, O(n) space | [Explanation](notes/max_frequency_increments.md) |
 | 88 | [Shortest removal making the remaining sum divisible](arrays/min_removal_divisible.py) | Expected O(n) time, O(min(n, p)) space | [Explanation](notes/min_removal_divisible.md) |
+| 89 | [Minimum end removals with a target sum](arrays/min_end_removals_sum.py) | Expected O(n) time, O(n) space | [Explanation](notes/min_end_removals_sum.md) |
