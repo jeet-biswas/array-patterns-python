@@ -116,3 +116,4 @@ half-open intervals. See each implementation for its exact contract.
 | 88 | [Shortest removal making the remaining sum divisible](arrays/min_removal_divisible.py) | Expected O(n) time, O(min(n, p)) space | [Explanation](notes/min_removal_divisible.md) |
 | 89 | [Minimum end removals with a target sum](arrays/min_end_removals_sum.py) | Expected O(n) time, O(n) space | [Explanation](notes/min_end_removals_sum.md) |
 | 90 | [Minimum arbitrary swaps to sort a permutation](arrays/min_swaps_permutation.py) | O(n) time, O(n) space | [Explanation](notes/min_swaps_permutation.md) |
+| 91 | [Maximum index-weighted rotation score](arrays/max_rotation_score.py) | O(n) time, O(1) space | [Explanation](notes/max_rotation_score.md) |
