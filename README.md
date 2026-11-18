@@ -118,3 +118,4 @@ half-open intervals. See each implementation for its exact contract.
 | 90 | [Minimum arbitrary swaps to sort a permutation](arrays/min_swaps_permutation.py) | O(n) time, O(n) space | [Explanation](notes/min_swaps_permutation.md) |
 | 91 | [Maximum index-weighted rotation score](arrays/max_rotation_score.py) | O(n) time, O(1) space | [Explanation](notes/max_rotation_score.md) |
 | 92 | [Next greater values in a circular array](arrays/circular_next_greater.py) | O(n) time, O(n) space | [Explanation](notes/circular_next_greater.md) |
+| 93 | [Resolve one-dimensional asteroid collisions](arrays/asteroid_collision.py) | O(n) time, O(n) space | [Explanation](notes/asteroid_collision.md) |
