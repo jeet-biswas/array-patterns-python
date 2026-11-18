@@ -107,3 +107,4 @@ half-open intervals. See each implementation for its exact contract.
 | 79 | [Count subsets with a target sum](arrays/subset_sum_count.py) | Expected O(nR) time, O(R) space | [Explanation](notes/subset_sum_count.md) |
 | 80 | [Maximum subarray sum with at most one deletion](arrays/max_subarray_one_deletion.py) | O(n) time, O(1) space | [Explanation](notes/max_subarray_one_deletion.md) |
 | 81 | [Maximum stock profit with a one-day cooldown](arrays/max_profit_cooldown.py) | O(n) time, O(1) space | [Explanation](notes/max_profit_cooldown.md) |
+| 82 | [Count pairs with a greater-than-double relation](arrays/count_reverse_pairs.py) | O(n log n) time, O(n) space | [Explanation](notes/count_reverse_pairs.md) |
