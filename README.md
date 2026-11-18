@@ -124,3 +124,4 @@ half-open intervals. See each implementation for its exact contract.
 | 96 | [Sum of all contiguous subarray ranges](arrays/sum_subarray_ranges.py) | O(n) time, O(n) space | [Explanation](notes/sum_subarray_ranges.md) |
 | 97 | [Maximum subarray sum with a divisible length](arrays/max_sum_length_multiple.py) | Expected O(n) time, O(min(n, k)) space | [Explanation](notes/max_sum_length_multiple.md) |
 | 98 | [Minimum adjacent swaps to group all ones](arrays/min_adjacent_swaps_ones.py) | O(n) time, O(n) space | [Explanation](notes/min_adjacent_swaps_ones.md) |
+| 99 | [Minimum candies respecting adjacent ratings](arrays/minimum_candy.py) | O(n) time, O(n) space | [Explanation](notes/minimum_candy.md) |
