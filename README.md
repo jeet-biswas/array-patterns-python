@@ -111,3 +111,4 @@ half-open intervals. See each implementation for its exact contract.
 | 83 | [Count valid triangle triplets](arrays/triangle_count.py) | O(n squared) time, O(n) space | [Explanation](notes/triangle_count.md) |
 | 84 | [Count subarrays with product below a threshold](arrays/count_product_below.py) | O(n) arithmetic operations, O(1) space | [Explanation](notes/count_product_below.md) |
 | 85 | [Count subarrays with maximum in an interval](arrays/count_bounded_max.py) | O(n) time, O(1) space | [Explanation](notes/count_bounded_max.md) |
+| 86 | [Count subarrays with exact minimum and maximum](arrays/count_fixed_bounds.py) | O(n) time, O(1) space | [Explanation](notes/count_fixed_bounds.md) |
