@@ -145,3 +145,4 @@ half-open intervals. See each implementation for its exact contract.
 | 117 | [Kth smallest absolute pair distance](arrays/kth_pair_distance.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/kth_pair_distance.md) |
 | 118 | [Enumerate the smallest pairs from two sorted arrays](arrays/smallest_pair_sums.py) | O(r + t log(r + 1)) time, O(r) space plus output | [Explanation](notes/smallest_pair_sums.md) |
 | 119 | [Equalize array values with per-element costs](arrays/min_cost_equal_weighted.py) | O(n log n) time, O(n) space | [Explanation](notes/min_cost_equal_weighted.md) |
+| 120 | [Maximum score from exactly k end picks](arrays/max_points_from_ends.py) | O(k) time, O(1) space | [Explanation](notes/max_points_from_ends.md) |
