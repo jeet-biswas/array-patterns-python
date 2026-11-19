@@ -133,3 +133,4 @@ half-open intervals. See each implementation for its exact contract.
 | 105 | [Count subarrays with a target XOR](arrays/count_subarrays_xor.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_subarrays_xor.md) |
 | 106 | [Maximum XOR of two array elements](arrays/max_xor_pair.py) | O(nB) time, O(nB) space | [Explanation](notes/max_xor_pair.md) |
 | 107 | [Static half-open range XOR queries](arrays/xor_range_query.py) | O(n) build/space, O(1) query operations | [Explanation](notes/xor_range_query.md) |
+| 108 | [Shortest subarray meeting a bitwise OR threshold](arrays/shortest_subarray_or.py) | O(nB) time, O(B) auxiliary space | [Explanation](notes/shortest_subarray_or.md) |
