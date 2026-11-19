@@ -135,3 +135,4 @@ half-open intervals. See each implementation for its exact contract.
 | 107 | [Static half-open range XOR queries](arrays/xor_range_query.py) | O(n) build/space, O(1) query operations | [Explanation](notes/xor_range_query.md) |
 | 108 | [Shortest subarray meeting a bitwise OR threshold](arrays/shortest_subarray_or.py) | O(nB) time, O(B) auxiliary space | [Explanation](notes/shortest_subarray_or.md) |
 | 109 | [Count distinct OR results of all subarrays](arrays/count_distinct_subarray_ors.py) | Expected O(nB) set operations, O(nB) space | [Explanation](notes/count_distinct_subarray_ors.md) |
+| 110 | [Maximum bitwise AND of two elements](arrays/max_and_pair.py) | O(nB) bit checks, O(1) auxiliary slots | [Explanation](notes/max_and_pair.md) |
