@@ -127,3 +127,4 @@ half-open intervals. See each implementation for its exact contract.
 | 99 | [Minimum candies respecting adjacent ratings](arrays/minimum_candy.py) | O(n) time, O(n) space | [Explanation](notes/minimum_candy.md) |
 | 100 | [Find a feasible circular gas-station start](arrays/gas_station_start.py) | O(n) time, O(1) space | [Explanation](notes/gas_station_start.md) |
 | 101 | [Longest alternating-difference subsequence](arrays/wiggle_subsequence_length.py) | O(n) time, O(1) space | [Explanation](notes/wiggle_subsequence_length.md) |
+| 102 | [Longest window with bounded value spread](arrays/longest_subarray_limit.py) | O(n) time, O(n) space | [Explanation](notes/longest_subarray_limit.md) |
