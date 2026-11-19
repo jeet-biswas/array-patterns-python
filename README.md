@@ -143,3 +143,4 @@ half-open intervals. See each implementation for its exact contract.
 | 115 | [Mutable range sums with a Fenwick array](arrays/fenwick_range_sum.py) | O(n) build/space, O(log(n + 1)) updates and queries | [Explanation](notes/fenwick_range_sum.md) |
 | 116 | [Batch distinct-value counts for array ranges](arrays/offline_distinct_queries.py) | Expected O((n + q) log(n + 2)) time, O(n + q) space | [Explanation](notes/offline_distinct_queries.md) |
 | 117 | [Kth smallest absolute pair distance](arrays/kth_pair_distance.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/kth_pair_distance.md) |
+| 118 | [Enumerate the smallest pairs from two sorted arrays](arrays/smallest_pair_sums.py) | O(r + t log(r + 1)) time, O(r) space plus output | [Explanation](notes/smallest_pair_sums.md) |
