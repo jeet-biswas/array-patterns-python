@@ -130,3 +130,4 @@ half-open intervals. See each implementation for its exact contract.
 | 102 | [Longest window with bounded value spread](arrays/longest_subarray_limit.py) | O(n) time, O(n) space | [Explanation](notes/longest_subarray_limit.md) |
 | 103 | [Medians of consecutive fixed-size windows](arrays/sliding_window_medians.py) | O(nk + k log k) time, O(k) auxiliary space | [Explanation](notes/sliding_window_medians.md) |
 | 104 | [Count subarray sums inside an inclusive range](arrays/count_range_sums.py) | O(n log n) time, O(n) space | [Explanation](notes/count_range_sums.md) |
+| 105 | [Count subarrays with a target XOR](arrays/count_subarrays_xor.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_subarrays_xor.md) |
