@@ -128,3 +128,4 @@ half-open intervals. See each implementation for its exact contract.
 | 100 | [Find a feasible circular gas-station start](arrays/gas_station_start.py) | O(n) time, O(1) space | [Explanation](notes/gas_station_start.md) |
 | 101 | [Longest alternating-difference subsequence](arrays/wiggle_subsequence_length.py) | O(n) time, O(1) space | [Explanation](notes/wiggle_subsequence_length.md) |
 | 102 | [Longest window with bounded value spread](arrays/longest_subarray_limit.py) | O(n) time, O(n) space | [Explanation](notes/longest_subarray_limit.md) |
+| 103 | [Medians of consecutive fixed-size windows](arrays/sliding_window_medians.py) | O(nk + k log k) time, O(k) auxiliary space | [Explanation](notes/sliding_window_medians.md) |
