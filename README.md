@@ -138,3 +138,4 @@ half-open intervals. See each implementation for its exact contract.
 | 110 | [Maximum bitwise AND of two elements](arrays/max_and_pair.py) | O(nB) bit checks, O(1) auxiliary slots | [Explanation](notes/max_and_pair.md) |
 | 111 | [Count splits with equal left and right XOR](arrays/count_equal_xor_triplets.py) | Expected O(n) hash operations, O(n) space | [Explanation](notes/count_equal_xor_triplets.md) |
 | 112 | [Sum of all odd-length subarrays](arrays/sum_odd_length_subarrays.py) | O(n) time, O(1) space | [Explanation](notes/sum_odd_length_subarrays.md) |
+| 113 | [Range sums with position-relative weights](arrays/weighted_range_sum.py) | O(n) build/space, O(1) per query | [Explanation](notes/weighted_range_sum.md) |
