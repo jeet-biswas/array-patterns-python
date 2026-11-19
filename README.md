@@ -142,3 +142,4 @@ half-open intervals. See each implementation for its exact contract.
 | 114 | [Static range minimum sparse table](arrays/range_min_table.py) | O(n log(n + 1)) build/space, O(1) queries | [Explanation](notes/range_min_table.md) |
 | 115 | [Mutable range sums with a Fenwick array](arrays/fenwick_range_sum.py) | O(n) build/space, O(log(n + 1)) updates and queries | [Explanation](notes/fenwick_range_sum.md) |
 | 116 | [Batch distinct-value counts for array ranges](arrays/offline_distinct_queries.py) | Expected O((n + q) log(n + 2)) time, O(n + q) space | [Explanation](notes/offline_distinct_queries.md) |
+| 117 | [Kth smallest absolute pair distance](arrays/kth_pair_distance.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/kth_pair_distance.md) |
