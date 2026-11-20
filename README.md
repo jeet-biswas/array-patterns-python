@@ -158,3 +158,4 @@ half-open intervals. See each implementation for its exact contract.
 | 130 | [Count pairs violating the index-value difference rule](arrays/count_bad_pairs.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_bad_pairs.md) |
 | 131 | [Count index pairs with a fixed absolute difference](arrays/count_pairs_difference.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_pairs_difference.md) |
 | 132 | [Count all index pairs with a target sum](arrays/count_pair_sums.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_pair_sums.md) |
+| 133 | [Count pairs below a strict sum threshold](arrays/count_pairs_below_sum.py) | O(n log n) time, O(n) space | [Explanation](notes/count_pairs_below_sum.md) |
