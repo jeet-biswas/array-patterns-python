@@ -166,3 +166,4 @@ half-open intervals. See each implementation for its exact contract.
 | 138 | [Earliest day for disjoint adjacent bouquets](arrays/min_bouquet_day.py) | O(n log(D + 1)) time, O(1) space | [Explanation](notes/min_bouquet_day.md) |
 | 139 | [Count products meeting a threshold for each query value](arrays/successful_product_pairs.py) | O(m log m + n log(m + 1)) time, O(n + m) space | [Explanation](notes/successful_product_pairs.md) |
 | 140 | [Minimize paired absolute differences with one replacement](arrays/min_absolute_sum_difference.py) | O(n log n) time, O(n) space | [Explanation](notes/min_absolute_sum_difference.md) |
+| 141 | [Minimum range after at most three value changes](arrays/minimum_range_three_changes.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_range_three_changes.md) |
