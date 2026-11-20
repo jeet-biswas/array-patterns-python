@@ -148,3 +148,4 @@ half-open intervals. See each implementation for its exact contract.
 | 120 | [Maximum score from exactly k end picks](arrays/max_points_from_ends.py) | O(k) time, O(1) space | [Explanation](notes/max_points_from_ends.md) |
 | 121 | [Minimum splits to make an array nondecreasing](arrays/minimum_replacements_sorted.py) | O(n) arithmetic operations, O(1) space | [Explanation](notes/minimum_replacements_sorted.md) |
 | 122 | [Median after each array prefix](arrays/running_medians.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/running_medians.md) |
+| 123 | [Best three disjoint fixed-length windows](arrays/max_sum_three_windows.py) | O(n) time, O(n) space | [Explanation](notes/max_sum_three_windows.md) |
