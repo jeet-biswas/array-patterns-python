@@ -163,3 +163,4 @@ half-open intervals. See each implementation for its exact contract.
 | 135 | [Sum widths of all nonempty subsequences](arrays/sum_subsequence_widths.py) | O(n log n) comparisons, O(n) auxiliary slots | [Explanation](notes/sum_subsequence_widths.md) |
 | 136 | [Choose paired indices for maximum sum-times-minimum](arrays/max_subsequence_score.py) | O(n log n + n log(k + 1)) time, O(n + k) space | [Explanation](notes/max_subsequence_score.md) |
 | 137 | [Minimum time for parallel workers to finish trips](arrays/min_total_trip_time.py) | O(n log(T + 1)) time, O(1) space | [Explanation](notes/min_total_trip_time.md) |
+| 138 | [Earliest day for disjoint adjacent bouquets](arrays/min_bouquet_day.py) | O(n log(D + 1)) time, O(1) space | [Explanation](notes/min_bouquet_day.md) |
