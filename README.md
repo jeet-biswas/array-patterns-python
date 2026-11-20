@@ -156,3 +156,4 @@ half-open intervals. See each implementation for its exact contract.
 | 128 | [Count contiguous subarrays with odd sum](arrays/count_odd_sum_subarrays.py) | O(n) time, O(1) space | [Explanation](notes/count_odd_sum_subarrays.md) |
 | 129 | [Count equal-value index pairs](arrays/count_equal_pairs.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_equal_pairs.md) |
 | 130 | [Count pairs violating the index-value difference rule](arrays/count_bad_pairs.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_bad_pairs.md) |
+| 131 | [Count index pairs with a fixed absolute difference](arrays/count_pairs_difference.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_pairs_difference.md) |
