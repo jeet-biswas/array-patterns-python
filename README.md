@@ -151,3 +151,4 @@ half-open intervals. See each implementation for its exact contract.
 | 123 | [Best three disjoint fixed-length windows](arrays/max_sum_three_windows.py) | O(n) time, O(n) space | [Explanation](notes/max_sum_three_windows.md) |
 | 124 | [Maximum sum of exactly k equal-width windows](arrays/max_sum_k_windows.py) | O(nk) time, O(n) space | [Explanation](notes/max_sum_k_windows.md) |
 | 125 | [Stock profit with a transaction limit](arrays/max_profit_transactions.py) | O(n min(k, n)) time, O(min(k, n)) space | [Explanation](notes/max_profit_transactions.md) |
+| 126 | [Stock profit with a fee per completed trade](arrays/max_profit_fee.py) | O(n) time, O(1) space | [Explanation](notes/max_profit_fee.md) |
