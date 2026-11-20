@@ -165,3 +165,4 @@ half-open intervals. See each implementation for its exact contract.
 | 137 | [Minimum time for parallel workers to finish trips](arrays/min_total_trip_time.py) | O(n log(T + 1)) time, O(1) space | [Explanation](notes/min_total_trip_time.md) |
 | 138 | [Earliest day for disjoint adjacent bouquets](arrays/min_bouquet_day.py) | O(n log(D + 1)) time, O(1) space | [Explanation](notes/min_bouquet_day.md) |
 | 139 | [Count products meeting a threshold for each query value](arrays/successful_product_pairs.py) | O(m log m + n log(m + 1)) time, O(n + m) space | [Explanation](notes/successful_product_pairs.md) |
+| 140 | [Minimize paired absolute differences with one replacement](arrays/min_absolute_sum_difference.py) | O(n log n) time, O(n) space | [Explanation](notes/min_absolute_sum_difference.md) |
