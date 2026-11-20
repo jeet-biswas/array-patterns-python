@@ -162,3 +162,4 @@ half-open intervals. See each implementation for its exact contract.
 | 134 | [Count subsequences with bounded minimum-plus-maximum](arrays/count_subsequences_minmax.py) | O(n log n) comparisons, O(n) auxiliary slots | [Explanation](notes/count_subsequences_minmax.md) |
 | 135 | [Sum widths of all nonempty subsequences](arrays/sum_subsequence_widths.py) | O(n log n) comparisons, O(n) auxiliary slots | [Explanation](notes/sum_subsequence_widths.md) |
 | 136 | [Choose paired indices for maximum sum-times-minimum](arrays/max_subsequence_score.py) | O(n log n + n log(k + 1)) time, O(n + k) space | [Explanation](notes/max_subsequence_score.md) |
+| 137 | [Minimum time for parallel workers to finish trips](arrays/min_total_trip_time.py) | O(n log(T + 1)) time, O(1) space | [Explanation](notes/min_total_trip_time.md) |
