@@ -197,3 +197,4 @@ half-open intervals. See each implementation for its exact contract.
 | 169 | [Detect a strict 132 pattern in an array](arrays/has_132_pattern.py) | O(n) time, O(n) space | [Explanation](notes/has_132_pattern.md) |
 | 170 | [Validate paired push and pop arrays](arrays/valid_stack_sequences.py) | O(n) time, O(n) space | [Explanation](notes/valid_stack_sequences.md) |
 | 171 | [Count visible people to the right by height](arrays/visible_people_right.py) | O(n) time, O(n) space | [Explanation](notes/visible_people_right.md) |
+| 172 | [Fewest points needed to hit all closed intervals](arrays/minimum_interval_arrows.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_interval_arrows.md) |
