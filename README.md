@@ -188,3 +188,4 @@ half-open intervals. See each implementation for its exact contract.
 | 160 | [Count arithmetic subsequences of length at least three](arrays/count_arithmetic_subsequences.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_arithmetic_subsequences.md) |
 | 161 | [Maximum dot product of two nonempty subsequences](arrays/max_subsequence_dot_product.py) | O(nm) time, O(m) space | [Explanation](notes/max_subsequence_dot_product.md) |
 | 162 | [Maximum ordered equal-value matches between arrays](arrays/max_uncrossed_matches.py) | O(nm) time, O(m) space | [Explanation](notes/max_uncrossed_matches.md) |
+| 163 | [Longest contiguous block shared by two arrays](arrays/longest_common_subarray.py) | O(nm) time, O(m) space | [Explanation](notes/longest_common_subarray.md) |
