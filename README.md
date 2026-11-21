@@ -169,3 +169,4 @@ half-open intervals. See each implementation for its exact contract.
 | 141 | [Minimum range after at most three value changes](arrays/minimum_range_three_changes.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_range_three_changes.md) |
 | 142 | [Count all-zero contiguous subarrays](arrays/zero_filled_subarrays.py) | O(n) time, O(1) space | [Explanation](notes/zero_filled_subarrays.md) |
 | 143 | [Longest subarray with positive product](arrays/longest_positive_product.py) | O(n) time, O(1) space | [Explanation](notes/longest_positive_product.md) |
+| 144 | [Maximum alternating signed subsequence sum](arrays/max_alternating_subsequence_sum.py) | O(n) time, O(1) space | [Explanation](notes/max_alternating_subsequence_sum.md) |
