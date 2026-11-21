@@ -186,3 +186,4 @@ half-open intervals. See each implementation for its exact contract.
 | 158 | [Count contiguous alternating binary windows](arrays/count_alternating_binary_subarrays.py) | O(n) time, O(1) space | [Explanation](notes/count_alternating_binary_subarrays.md) |
 | 159 | [Longest subsequence with a specified difference](arrays/longest_fixed_difference_subsequence.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_fixed_difference_subsequence.md) |
 | 160 | [Count arithmetic subsequences of length at least three](arrays/count_arithmetic_subsequences.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_arithmetic_subsequences.md) |
+| 161 | [Maximum dot product of two nonempty subsequences](arrays/max_subsequence_dot_product.py) | O(nm) time, O(m) space | [Explanation](notes/max_subsequence_dot_product.md) |
