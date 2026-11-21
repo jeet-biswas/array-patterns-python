@@ -204,3 +204,4 @@ half-open intervals. See each implementation for its exact contract.
 | 176 | [Attend the most events with one event per integer day](arrays/max_attendable_events.py) | O(n log n) time, O(n) space | [Explanation](notes/max_attendable_events.md) |
 | 177 | [Check vehicle capacity across trip intervals](arrays/car_pooling_feasible.py) | O(n log n) time, O(n) space | [Explanation](notes/car_pooling_feasible.md) |
 | 178 | [Minimum scheduling slots for repeated tasks with cooldown](arrays/least_task_intervals.py) | Expected O(n) time, O(u) space | [Explanation](notes/least_task_intervals.md) |
+| 179 | [Fewest distinct values after exactly k deletions](arrays/least_unique_after_removals.py) | O(n + u log u) time, O(u) space | [Explanation](notes/least_unique_after_removals.md) |
