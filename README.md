@@ -172,3 +172,4 @@ half-open intervals. See each implementation for its exact contract.
 | 144 | [Maximum alternating signed subsequence sum](arrays/max_alternating_subsequence_sum.py) | O(n) time, O(1) space | [Explanation](notes/max_alternating_subsequence_sum.md) |
 | 145 | [Best sum after replacing blocks by their maxima](arrays/partition_max_sum.py) | O(nk) time, O(n) space | [Explanation](notes/partition_max_sum.md) |
 | 146 | [Maximum score when adjacent values are forbidden](arrays/delete_and_earn.py) | O(n + u log u) time, O(u) space | [Explanation](notes/delete_and_earn.md) |
+| 147 | [Maximum nonadjacent sum on a circular array](arrays/max_circular_nonadjacent_sum.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/max_circular_nonadjacent_sum.md) |
