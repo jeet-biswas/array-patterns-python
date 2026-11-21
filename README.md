@@ -189,3 +189,4 @@ half-open intervals. See each implementation for its exact contract.
 | 161 | [Maximum dot product of two nonempty subsequences](arrays/max_subsequence_dot_product.py) | O(nm) time, O(m) space | [Explanation](notes/max_subsequence_dot_product.md) |
 | 162 | [Maximum ordered equal-value matches between arrays](arrays/max_uncrossed_matches.py) | O(nm) time, O(m) space | [Explanation](notes/max_uncrossed_matches.md) |
 | 163 | [Longest contiguous block shared by two arrays](arrays/longest_common_subarray.py) | O(nm) time, O(m) space | [Explanation](notes/longest_common_subarray.md) |
+| 164 | [Insert the fewest values to embed a distinct target](arrays/min_insertions_target_subsequence.py) | O(n + m log(n + 1)) time, O(n) space | [Explanation](notes/min_insertions_target_subsequence.md) |
