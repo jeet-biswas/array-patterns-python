@@ -195,3 +195,4 @@ half-open intervals. See each implementation for its exact contract.
 | 167 | [Pair a signed array into value-and-double pairs](arrays/can_pair_doubles.py) | O(n + u log u) time, O(u) space | [Explanation](notes/can_pair_doubles.md) |
 | 168 | [Check whether every inversion is between neighbors](arrays/only_local_inversions.py) | O(n) time, O(1) space | [Explanation](notes/only_local_inversions.md) |
 | 169 | [Detect a strict 132 pattern in an array](arrays/has_132_pattern.py) | O(n) time, O(n) space | [Explanation](notes/has_132_pattern.md) |
+| 170 | [Validate paired push and pop arrays](arrays/valid_stack_sequences.py) | O(n) time, O(n) space | [Explanation](notes/valid_stack_sequences.md) |
