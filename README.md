@@ -177,3 +177,4 @@ half-open intervals. See each implementation for its exact contract.
 | 149 | [Maximum score with bounded forward jumps](arrays/max_jump_score.py) | O(n) time, O(n) space | [Explanation](notes/max_jump_score.md) |
 | 150 | [Maximum subsequence sum with bounded index gaps](arrays/constrained_subsequence_sum.py) | O(n) time, O(min(n, k)) auxiliary space | [Explanation](notes/constrained_subsequence_sum.md) |
 | 151 | [Shortest contiguous removal leaving a sorted array](arrays/shortest_removal_sorted.py) | O(n) time, O(1) space | [Explanation](notes/shortest_removal_sorted.md) |
+| 152 | [Maximum subarray sum times its minimum](arrays/max_subarray_min_product.py) | O(n) time, O(n) space | [Explanation](notes/max_subarray_min_product.md) |
