@@ -184,3 +184,4 @@ half-open intervals. See each implementation for its exact contract.
 | 156 | [Count all windows with a bounded value spread](arrays/count_bounded_spread_subarrays.py) | O(n) time, O(n) space | [Explanation](notes/count_bounded_spread_subarrays.md) |
 | 157 | [Count strictly increasing contiguous subarrays](arrays/count_increasing_subarrays.py) | O(n) time, O(1) space | [Explanation](notes/count_increasing_subarrays.md) |
 | 158 | [Count contiguous alternating binary windows](arrays/count_alternating_binary_subarrays.py) | O(n) time, O(1) space | [Explanation](notes/count_alternating_binary_subarrays.md) |
+| 159 | [Longest subsequence with a specified difference](arrays/longest_fixed_difference_subsequence.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_fixed_difference_subsequence.md) |
