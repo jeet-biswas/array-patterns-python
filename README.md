@@ -181,3 +181,4 @@ half-open intervals. See each implementation for its exact contract.
 | 153 | [Largest minimum-times-length score containing an index](arrays/max_score_containing_index.py) | O(n) time, O(n) space | [Explanation](notes/max_score_containing_index.md) |
 | 154 | [Count subarrays containing enough equal-value pairs](arrays/count_subarrays_pair_threshold.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_subarrays_pair_threshold.md) |
 | 155 | [Count windows containing every distinct array value](arrays/count_complete_subarrays.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_complete_subarrays.md) |
+| 156 | [Count all windows with a bounded value spread](arrays/count_bounded_spread_subarrays.py) | O(n) time, O(n) space | [Explanation](notes/count_bounded_spread_subarrays.md) |
