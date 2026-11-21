@@ -192,3 +192,4 @@ half-open intervals. See each implementation for its exact contract.
 | 164 | [Insert the fewest values to embed a distinct target](arrays/min_insertions_target_subsequence.py) | O(n + m log(n + 1)) time, O(n) space | [Explanation](notes/min_insertions_target_subsequence.md) |
 | 165 | [Fewest replacements to obtain consecutive distinct values](arrays/min_replacements_continuous.py) | O(n log n) time, O(n) space | [Explanation](notes/min_replacements_continuous.md) |
 | 166 | [Recover a nonnegative array from shuffled values and doubles](arrays/recover_doubled_array.py) | O(n log n) time, O(n) space | [Explanation](notes/recover_doubled_array.md) |
+| 167 | [Pair a signed array into value-and-double pairs](arrays/can_pair_doubles.py) | O(n + u log u) time, O(u) space | [Explanation](notes/can_pair_doubles.md) |
