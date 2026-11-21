@@ -206,3 +206,4 @@ half-open intervals. See each implementation for its exact contract.
 | 178 | [Minimum scheduling slots for repeated tasks with cooldown](arrays/least_task_intervals.py) | Expected O(n) time, O(u) space | [Explanation](notes/least_task_intervals.md) |
 | 179 | [Fewest distinct values after exactly k deletions](arrays/least_unique_after_removals.py) | O(n + u log u) time, O(u) space | [Explanation](notes/least_unique_after_removals.md) |
 | 180 | [Select and order values for the largest time-weighted sum](arrays/max_time_weighted_satisfaction.py) | O(n log n) time, O(n) space | [Explanation](notes/max_time_weighted_satisfaction.md) |
+| 181 | [Fewest patches to cover every subset sum up to a target](arrays/minimum_coverage_patches.py) | O(n + log(target + 1)) time, O(1) auxiliary space | [Explanation](notes/minimum_coverage_patches.md) |
