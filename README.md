@@ -199,3 +199,4 @@ half-open intervals. See each implementation for its exact contract.
 | 171 | [Count visible people to the right by height](arrays/visible_people_right.py) | O(n) time, O(n) space | [Explanation](notes/visible_people_right.md) |
 | 172 | [Fewest points needed to hit all closed intervals](arrays/minimum_interval_arrows.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_interval_arrows.md) |
 | 173 | [Fewest removals to make half-open intervals disjoint](arrays/minimum_interval_removals.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_interval_removals.md) |
+| 174 | [Intersect two sorted disjoint interval arrays](arrays/intersect_interval_arrays.py) | O(n + m) time, O(n + m) output space | [Explanation](notes/intersect_interval_arrays.md) |
