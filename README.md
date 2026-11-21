@@ -175,3 +175,4 @@ half-open intervals. See each implementation for its exact contract.
 | 147 | [Maximum nonadjacent sum on a circular array](arrays/max_circular_nonadjacent_sum.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/max_circular_nonadjacent_sum.md) |
 | 148 | [Minimum cost to climb an array of steps](arrays/min_climbing_cost.py) | O(n) time, O(1) space | [Explanation](notes/min_climbing_cost.md) |
 | 149 | [Maximum score with bounded forward jumps](arrays/max_jump_score.py) | O(n) time, O(n) space | [Explanation](notes/max_jump_score.md) |
+| 150 | [Maximum subsequence sum with bounded index gaps](arrays/constrained_subsequence_sum.py) | O(n) time, O(min(n, k)) auxiliary space | [Explanation](notes/constrained_subsequence_sum.md) |
