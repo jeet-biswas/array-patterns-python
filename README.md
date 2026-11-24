@@ -218,3 +218,4 @@ half-open intervals. See each implementation for its exact contract.
 | 190 | [Maximum subarray sum with length inside a range](arrays/max_sum_length_range.py) | O(n) time, O(n) space | [Explanation](notes/max_sum_length_range.md) |
 | 191 | [Count subarrays with a specified greatest common divisor](arrays/count_subarray_gcd.py) | O(n log(M + 1)) GCD operations, O(log(M + 1)) states | [Explanation](notes/count_subarray_gcd.md) |
 | 192 | [Count subarrays with a specified least common multiple](arrays/count_subarray_lcm.py) | O(n log(target + 1)) LCM operations, O(log(target + 1)) states | [Explanation](notes/count_subarray_lcm.md) |
+| 193 | [Recover a largest pairwise-divisible subset](arrays/largest_divisible_subset.py) | O(n squared) time, O(n) space | [Explanation](notes/largest_divisible_subset.md) |
