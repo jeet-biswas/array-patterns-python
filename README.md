@@ -220,3 +220,4 @@ half-open intervals. See each implementation for its exact contract.
 | 192 | [Count subarrays with a specified least common multiple](arrays/count_subarray_lcm.py) | O(n log(target + 1)) LCM operations, O(log(target + 1)) states | [Explanation](notes/count_subarray_lcm.md) |
 | 193 | [Recover a largest pairwise-divisible subset](arrays/largest_divisible_subset.py) | O(n squared) time, O(n) space | [Explanation](notes/largest_divisible_subset.md) |
 | 194 | [Pair all elements so each pair sum is divisible](arrays/can_pair_divisible_sums.py) | Expected O(n) time, O(min(n, modulus)) space | [Explanation](notes/can_pair_divisible_sums.md) |
+| 195 | [Fewest deletions to form a strict mountain subsequence](arrays/minimum_mountain_removals.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_mountain_removals.md) |
