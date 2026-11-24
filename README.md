@@ -208,3 +208,4 @@ half-open intervals. See each implementation for its exact contract.
 | 180 | [Select and order values for the largest time-weighted sum](arrays/max_time_weighted_satisfaction.py) | O(n log n) time, O(n) space | [Explanation](notes/max_time_weighted_satisfaction.md) |
 | 181 | [Fewest patches to cover every subset sum up to a target](arrays/minimum_coverage_patches.py) | O(n + log(target + 1)) time, O(1) auxiliary space | [Explanation](notes/minimum_coverage_patches.md) |
 | 182 | [Fewest fixed-length bit flips to obtain all ones](arrays/minimum_k_bit_flips.py) | O(n) time, O(n) space | [Explanation](notes/minimum_k_bit_flips.md) |
+| 183 | [Longest window whose elements share no set bits](arrays/longest_disjoint_bit_window.py) | O(n) bitwise operations, O(1) auxiliary slots | [Explanation](notes/longest_disjoint_bit_window.md) |
