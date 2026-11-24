@@ -226,3 +226,4 @@ half-open intervals. See each implementation for its exact contract.
 | 198 | [Fewest fuel stops needed to reach a destination](arrays/minimum_refuel_stops.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_refuel_stops.md) |
 | 199 | [Furthest array position reachable with bricks and ladders](arrays/furthest_reachable_building.py) | O(n log(min(n, L) + 2)) time, O(min(n, L) + 1) space | [Explanation](notes/furthest_reachable_building.md) |
 | 200 | [Hire from both array ends with a limited candidate pool](arrays/total_hiring_cost.py) | O(n + (c + k) log(c + 1)) time, O(c) space | [Explanation](notes/total_hiring_cost.md) |
+| 201 | [Minimum total cost of merging array weights in pairs](arrays/minimum_merge_cost.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_merge_cost.md) |
