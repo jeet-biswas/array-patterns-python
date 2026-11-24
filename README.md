@@ -228,3 +228,4 @@ half-open intervals. See each implementation for its exact contract.
 | 200 | [Hire from both array ends with a limited candidate pool](arrays/total_hiring_cost.py) | O(n + (c + k) log(c + 1)) time, O(c) space | [Explanation](notes/total_hiring_cost.md) |
 | 201 | [Minimum total cost of merging array weights in pairs](arrays/minimum_merge_cost.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_merge_cost.md) |
 | 202 | [Maximize capital by selecting affordable projects](arrays/maximize_project_capital.py) | O(n log n + k log(n + 1)) time, O(n) space | [Explanation](notes/maximize_project_capital.md) |
+| 203 | [Sum absolute differences from each sorted array value](arrays/sum_absolute_differences_sorted.py) | O(n) time, O(n) output space | [Explanation](notes/sum_absolute_differences_sorted.md) |
