@@ -221,3 +221,4 @@ half-open intervals. See each implementation for its exact contract.
 | 193 | [Recover a largest pairwise-divisible subset](arrays/largest_divisible_subset.py) | O(n squared) time, O(n) space | [Explanation](notes/largest_divisible_subset.md) |
 | 194 | [Pair all elements so each pair sum is divisible](arrays/can_pair_divisible_sums.py) | Expected O(n) time, O(min(n, modulus)) space | [Explanation](notes/can_pair_divisible_sums.md) |
 | 195 | [Fewest deletions to form a strict mountain subsequence](arrays/minimum_mountain_removals.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_mountain_removals.md) |
+| 196 | [Longest subsequence with an exact signed sum](arrays/longest_subsequence_target_sum.py) | Expected O(nR) time, O(R) space | [Explanation](notes/longest_subsequence_target_sum.md) |
