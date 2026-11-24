@@ -223,3 +223,4 @@ half-open intervals. See each implementation for its exact contract.
 | 195 | [Fewest deletions to form a strict mountain subsequence](arrays/minimum_mountain_removals.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_mountain_removals.md) |
 | 196 | [Longest subsequence with an exact signed sum](arrays/longest_subsequence_target_sum.py) | Expected O(nR) time, O(R) space | [Explanation](notes/longest_subsequence_target_sum.md) |
 | 197 | [Maximum value from at most k nonoverlapping events](arrays/max_value_k_events.py) | O(n log n + nk) time, O(n) space | [Explanation](notes/max_value_k_events.md) |
+| 198 | [Fewest fuel stops needed to reach a destination](arrays/minimum_refuel_stops.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_refuel_stops.md) |
