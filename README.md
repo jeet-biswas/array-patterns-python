@@ -222,3 +222,4 @@ half-open intervals. See each implementation for its exact contract.
 | 194 | [Pair all elements so each pair sum is divisible](arrays/can_pair_divisible_sums.py) | Expected O(n) time, O(min(n, modulus)) space | [Explanation](notes/can_pair_divisible_sums.md) |
 | 195 | [Fewest deletions to form a strict mountain subsequence](arrays/minimum_mountain_removals.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_mountain_removals.md) |
 | 196 | [Longest subsequence with an exact signed sum](arrays/longest_subsequence_target_sum.py) | Expected O(nR) time, O(R) space | [Explanation](notes/longest_subsequence_target_sum.md) |
+| 197 | [Maximum value from at most k nonoverlapping events](arrays/max_value_k_events.py) | O(n log n + nk) time, O(n) space | [Explanation](notes/max_value_k_events.md) |
