@@ -213,3 +213,4 @@ half-open intervals. See each implementation for its exact contract.
 | 185 | [Largest sum of a duplicate-free contiguous window](arrays/max_unique_subarray_sum.py) | Expected O(n) time, O(n) space | [Explanation](notes/max_unique_subarray_sum.md) |
 | 186 | [Count subarrays containing the global maximum at least k times](arrays/count_global_max_occurrences.py) | O(n) time, O(1) space | [Explanation](notes/count_global_max_occurrences.md) |
 | 187 | [Longest equal-value block after limited deletions](arrays/longest_equal_after_deletions.py) | Expected O(n) time, O(n) space | [Explanation](notes/longest_equal_after_deletions.md) |
+| 188 | [Fewest arbitrary swaps to group ones around a circle](arrays/min_circular_swaps_group_ones.py) | O(n) time, O(1) space | [Explanation](notes/min_circular_swaps_group_ones.md) |
