@@ -209,3 +209,4 @@ half-open intervals. See each implementation for its exact contract.
 | 181 | [Fewest patches to cover every subset sum up to a target](arrays/minimum_coverage_patches.py) | O(n + log(target + 1)) time, O(1) auxiliary space | [Explanation](notes/minimum_coverage_patches.md) |
 | 182 | [Fewest fixed-length bit flips to obtain all ones](arrays/minimum_k_bit_flips.py) | O(n) time, O(n) space | [Explanation](notes/minimum_k_bit_flips.md) |
 | 183 | [Longest window whose elements share no set bits](arrays/longest_disjoint_bit_window.py) | O(n) bitwise operations, O(1) auxiliary slots | [Explanation](notes/longest_disjoint_bit_window.md) |
+| 184 | [Largest sum of a fixed-size window with distinct values](arrays/max_distinct_window_sum.py) | Expected O(n) time, O(min(n, k)) space | [Explanation](notes/max_distinct_window_sum.md) |
