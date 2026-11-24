@@ -224,3 +224,4 @@ half-open intervals. See each implementation for its exact contract.
 | 196 | [Longest subsequence with an exact signed sum](arrays/longest_subsequence_target_sum.py) | Expected O(nR) time, O(R) space | [Explanation](notes/longest_subsequence_target_sum.md) |
 | 197 | [Maximum value from at most k nonoverlapping events](arrays/max_value_k_events.py) | O(n log n + nk) time, O(n) space | [Explanation](notes/max_value_k_events.md) |
 | 198 | [Fewest fuel stops needed to reach a destination](arrays/minimum_refuel_stops.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_refuel_stops.md) |
+| 199 | [Furthest array position reachable with bricks and ladders](arrays/furthest_reachable_building.py) | O(n log(min(n, L) + 2)) time, O(min(n, L) + 1) space | [Explanation](notes/furthest_reachable_building.md) |
