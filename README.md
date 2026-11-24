@@ -207,3 +207,4 @@ half-open intervals. See each implementation for its exact contract.
 | 179 | [Fewest distinct values after exactly k deletions](arrays/least_unique_after_removals.py) | O(n + u log u) time, O(u) space | [Explanation](notes/least_unique_after_removals.md) |
 | 180 | [Select and order values for the largest time-weighted sum](arrays/max_time_weighted_satisfaction.py) | O(n log n) time, O(n) space | [Explanation](notes/max_time_weighted_satisfaction.md) |
 | 181 | [Fewest patches to cover every subset sum up to a target](arrays/minimum_coverage_patches.py) | O(n + log(target + 1)) time, O(1) auxiliary space | [Explanation](notes/minimum_coverage_patches.md) |
+| 182 | [Fewest fixed-length bit flips to obtain all ones](arrays/minimum_k_bit_flips.py) | O(n) time, O(n) space | [Explanation](notes/minimum_k_bit_flips.md) |
