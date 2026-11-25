@@ -251,3 +251,4 @@ half-open intervals. See each implementation for its exact contract.
 | 223 | [Minimum cost to merge adjacent groups of k piles](arrays/minimum_adjacent_k_merge_cost.py) | O(n cubed) time, O(n squared) space | [Explanation](notes/minimum_adjacent_k_merge_cost.md) |
 | 224 | [Partition an array into equal pairs or valid triples](arrays/has_valid_block_partition.py) | O(n) time, O(n) space | [Explanation](notes/has_valid_block_partition.md) |
 | 225 | [Maximum subarray sum after squaring exactly one element](arrays/max_subarray_one_square.py) | O(n) time, O(1) space | [Explanation](notes/max_subarray_one_square.md) |
+| 226 | [Largest array total after one matching segment exchange](arrays/max_spliced_array_sum.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/max_spliced_array_sum.md) |
