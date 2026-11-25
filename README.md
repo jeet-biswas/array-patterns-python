@@ -237,3 +237,4 @@ half-open intervals. See each implementation for its exact contract.
 | 209 | [Most equal values after bounded independent adjustments](arrays/max_equal_after_adjustments.py) | O(n log n) time, O(n) space | [Explanation](notes/max_equal_after_adjustments.md) |
 | 210 | [Minimize the largest difference among disjoint pairs](arrays/minimize_max_pair_difference.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/minimize_max_pair_difference.md) |
 | 211 | [Minimize the largest value by transferring units left](arrays/minimize_max_after_left_moves.py) | O(n) time, O(1) space | [Explanation](notes/minimize_max_after_left_moves.md) |
+| 212 | [Fastest synchronous neighbor copying on a circular array](arrays/minimum_circular_equalization_seconds.py) | Expected O(n) time, O(n) space | [Explanation](notes/minimum_circular_equalization_seconds.md) |
