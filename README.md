@@ -244,3 +244,4 @@ half-open intervals. See each implementation for its exact contract.
 | 216 | [Count index quadruplets with a target sum](arrays/count_target_quadruplets.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_target_quadruplets.md) |
 | 217 | [Count target-sum choices from four separate arrays](arrays/four_array_sum_count.py) | Expected O(ab + cd) time, O(ab) space | [Explanation](notes/four_array_sum_count.md) |
 | 218 | [Count ordered four-index tuples with equal pair products](arrays/count_equal_product_tuples.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_equal_product_tuples.md) |
+| 219 | [Longest interval with a strict majority above a threshold](arrays/longest_majority_above_threshold.py) | O(n) time, O(n) space | [Explanation](notes/longest_majority_above_threshold.md) |
