@@ -248,3 +248,4 @@ half-open intervals. See each implementation for its exact contract.
 | 220 | [Partition ordered jobs into days with minimum difficulty](arrays/minimum_job_schedule_difficulty.py) | O(dn squared) time, O(n) space | [Explanation](notes/minimum_job_schedule_difficulty.md) |
 | 221 | [Maximum coins from removing balloons in any order](arrays/max_burst_balloon_coins.py) | O(n cubed) time, O(n squared) space | [Explanation](notes/max_burst_balloon_coins.md) |
 | 222 | [Minimum triangulation score of a cyclic value array](arrays/minimum_triangulation_score.py) | O(n cubed) time, O(n squared) space | [Explanation](notes/minimum_triangulation_score.md) |
+| 223 | [Minimum cost to merge adjacent groups of k piles](arrays/minimum_adjacent_k_merge_cost.py) | O(n cubed) time, O(n squared) space | [Explanation](notes/minimum_adjacent_k_merge_cost.md) |
