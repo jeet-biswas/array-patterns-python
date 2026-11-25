@@ -246,3 +246,4 @@ half-open intervals. See each implementation for its exact contract.
 | 218 | [Count ordered four-index tuples with equal pair products](arrays/count_equal_product_tuples.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_equal_product_tuples.md) |
 | 219 | [Longest interval with a strict majority above a threshold](arrays/longest_majority_above_threshold.py) | O(n) time, O(n) space | [Explanation](notes/longest_majority_above_threshold.md) |
 | 220 | [Partition ordered jobs into days with minimum difficulty](arrays/minimum_job_schedule_difficulty.py) | O(dn squared) time, O(n) space | [Explanation](notes/minimum_job_schedule_difficulty.md) |
+| 221 | [Maximum coins from removing balloons in any order](arrays/max_burst_balloon_coins.py) | O(n cubed) time, O(n squared) space | [Explanation](notes/max_burst_balloon_coins.md) |
