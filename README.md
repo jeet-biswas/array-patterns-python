@@ -242,3 +242,4 @@ half-open intervals. See each implementation for its exact contract.
 | 214 | [Fewest decrements to make alternating strict valleys](arrays/minimum_decrements_zigzag.py) | O(n) time, O(1) space | [Explanation](notes/minimum_decrements_zigzag.md) |
 | 215 | [Count strictly increasing or decreasing index triplets](arrays/count_monotone_triplets.py) | O(n squared) time, O(1) auxiliary space | [Explanation](notes/count_monotone_triplets.md) |
 | 216 | [Count index quadruplets with a target sum](arrays/count_target_quadruplets.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_target_quadruplets.md) |
+| 217 | [Count target-sum choices from four separate arrays](arrays/four_array_sum_count.py) | Expected O(ab + cd) time, O(ab) space | [Explanation](notes/four_array_sum_count.md) |
