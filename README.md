@@ -260,3 +260,4 @@ half-open intervals. See each implementation for its exact contract.
 | 232 | [Rotate a square array clockwise in place](arrays/rotate_square_clockwise.py) | O(n squared) time, O(1) auxiliary space | [Explanation](notes/rotate_square_clockwise.md) |
 | 233 | [Zero every row and column containing an original zero](arrays/zero_matrix_rows_columns.py) | O(r + rc) time, O(1) auxiliary space | [Explanation](notes/zero_matrix_rows_columns.md) |
 | 234 | [Largest all-one rectangle in a binary matrix](arrays/max_binary_matrix_rectangle.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/max_binary_matrix_rectangle.md) |
+| 235 | [Count all square submatrices filled with ones](arrays/count_all_one_squares.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/count_all_one_squares.md) |
