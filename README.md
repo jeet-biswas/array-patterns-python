@@ -233,3 +233,4 @@ half-open intervals. See each implementation for its exact contract.
 | 205 | [Count subarray deletions leaving a strictly increasing array](arrays/count_increasing_remainder_removals.py) | O(n) time, O(1) space | [Explanation](notes/count_increasing_remainder_removals.md) |
 | 206 | [Minimum cutting cost for an array of cut positions](arrays/minimum_stick_cut_cost.py) | O(m cubed) time, O(m squared) space | [Explanation](notes/minimum_stick_cut_cost.md) |
 | 207 | [Longest chain of strictly separated interval pairs](arrays/longest_interval_chain.py) | O(n log n) time, O(n) space | [Explanation](notes/longest_interval_chain.md) |
+| 208 | [Minimum resources for overlapping half-open intervals](arrays/minimum_parallel_resources.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_parallel_resources.md) |
