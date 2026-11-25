@@ -255,3 +255,4 @@ half-open intervals. See each implementation for its exact contract.
 | 227 | [Maximum forward path sum across two sorted arrays](arrays/max_two_array_path_sum.py) | O(n + m) time, O(1) auxiliary space | [Explanation](notes/max_two_array_path_sum.md) |
 | 228 | [Minimize the range under parity-based value operations](arrays/minimum_array_deviation.py) | O(n log(M + 1) log(n + 1)) time, O(n) space | [Explanation](notes/minimum_array_deviation.md) |
 | 229 | [Smallest value range covering every sorted input array](arrays/smallest_covering_range.py) | O(N + N log(k + 1)) time, O(k) space | [Explanation](notes/smallest_covering_range.md) |
+| 230 | [Kth smallest element of a row-and-column sorted matrix](arrays/kth_smallest_sorted_matrix.py) | O(rc + k log(r + 1)) time, O(r) space | [Explanation](notes/kth_smallest_sorted_matrix.md) |
