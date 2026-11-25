@@ -257,3 +257,4 @@ half-open intervals. See each implementation for its exact contract.
 | 229 | [Smallest value range covering every sorted input array](arrays/smallest_covering_range.py) | O(N + N log(k + 1)) time, O(k) space | [Explanation](notes/smallest_covering_range.md) |
 | 230 | [Kth smallest element of a row-and-column sorted matrix](arrays/kth_smallest_sorted_matrix.py) | O(rc + k log(r + 1)) time, O(r) space | [Explanation](notes/kth_smallest_sorted_matrix.md) |
 | 231 | [Read a rectangular array in clockwise spiral order](arrays/spiral_matrix_values.py) | O(r + rc) time, O(rc) output space | [Explanation](notes/spiral_matrix_values.md) |
+| 232 | [Rotate a square array clockwise in place](arrays/rotate_square_clockwise.py) | O(n squared) time, O(1) auxiliary space | [Explanation](notes/rotate_square_clockwise.md) |
