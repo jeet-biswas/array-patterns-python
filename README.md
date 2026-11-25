@@ -239,3 +239,4 @@ half-open intervals. See each implementation for its exact contract.
 | 211 | [Minimize the largest value by transferring units left](arrays/minimize_max_after_left_moves.py) | O(n) time, O(1) space | [Explanation](notes/minimize_max_after_left_moves.md) |
 | 212 | [Fastest synchronous neighbor copying on a circular array](arrays/minimum_circular_equalization_seconds.py) | Expected O(n) time, O(n) space | [Explanation](notes/minimum_circular_equalization_seconds.md) |
 | 213 | [Fewest adjacent swaps to alternate a binary array](arrays/min_adjacent_swaps_alternating.py) | O(n) time, O(n) space | [Explanation](notes/min_adjacent_swaps_alternating.md) |
+| 214 | [Fewest decrements to make alternating strict valleys](arrays/minimum_decrements_zigzag.py) | O(n) time, O(1) space | [Explanation](notes/minimum_decrements_zigzag.md) |
