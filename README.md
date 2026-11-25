@@ -235,3 +235,4 @@ half-open intervals. See each implementation for its exact contract.
 | 207 | [Longest chain of strictly separated interval pairs](arrays/longest_interval_chain.py) | O(n log n) time, O(n) space | [Explanation](notes/longest_interval_chain.md) |
 | 208 | [Minimum resources for overlapping half-open intervals](arrays/minimum_parallel_resources.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_parallel_resources.md) |
 | 209 | [Most equal values after bounded independent adjustments](arrays/max_equal_after_adjustments.py) | O(n log n) time, O(n) space | [Explanation](notes/max_equal_after_adjustments.md) |
+| 210 | [Minimize the largest difference among disjoint pairs](arrays/minimize_max_pair_difference.py) | O(n log n + n log(D + 1)) time, O(n) space | [Explanation](notes/minimize_max_pair_difference.md) |
