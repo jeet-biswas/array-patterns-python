@@ -241,3 +241,4 @@ half-open intervals. See each implementation for its exact contract.
 | 213 | [Fewest adjacent swaps to alternate a binary array](arrays/min_adjacent_swaps_alternating.py) | O(n) time, O(n) space | [Explanation](notes/min_adjacent_swaps_alternating.md) |
 | 214 | [Fewest decrements to make alternating strict valleys](arrays/minimum_decrements_zigzag.py) | O(n) time, O(1) space | [Explanation](notes/minimum_decrements_zigzag.md) |
 | 215 | [Count strictly increasing or decreasing index triplets](arrays/count_monotone_triplets.py) | O(n squared) time, O(1) auxiliary space | [Explanation](notes/count_monotone_triplets.md) |
+| 216 | [Count index quadruplets with a target sum](arrays/count_target_quadruplets.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/count_target_quadruplets.md) |
