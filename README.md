@@ -288,3 +288,4 @@ half-open intervals. See each implementation for its exact contract.
 | 260 | [Delete the fewest values until the minimum divides another array](arrays/minimum_deletions_for_divisor.py) | O(n log n + m) GCD/arithmetic operations, O(n) space | [Explanation](notes/minimum_deletions_for_divisor.md) |
 | 261 | [Fewest neighbor-GCD replacements to make every value one](arrays/minimum_neighbor_gcd_operations.py) | O(n squared) GCD operations, O(1) auxiliary space | [Explanation](notes/minimum_neighbor_gcd_operations.md) |
 | 262 | [Maximize round-weighted GCD scores over disjoint pairs](arrays/max_weighted_gcd_pairing.py) | O(n squared 2^n) time, O(2^n + n squared) space | [Explanation](notes/max_weighted_gcd_pairing.md) |
+| 263 | [Count distinct nonempty value subsequences](arrays/count_distinct_value_subsequences.py) | Expected O(n) arithmetic operations, O(n) auxiliary slots | [Explanation](notes/count_distinct_value_subsequences.md) |
