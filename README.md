@@ -271,3 +271,4 @@ half-open intervals. See each implementation for its exact contract.
 | 243 | [Longest strictly increasing path through adjacent cells](arrays/longest_increasing_matrix_path.py) | O(r + rc) time, O(rc) space | [Explanation](notes/longest_increasing_matrix_path.md) |
 | 244 | [Traverse matrix diagonals in alternating directions](arrays/diagonal_zigzag_values.py) | O(r + rc) time, O(rc) output space | [Explanation](notes/diagonal_zigzag_values.md) |
 | 245 | [Sum the clipped square neighborhood of every matrix cell](arrays/matrix_block_sums.py) | O(r + rc) time, O((r + 1)(c + 1)) space | [Explanation](notes/matrix_block_sums.md) |
+| 246 | [Count negatives in a nonincreasing row-and-column matrix](arrays/count_sorted_matrix_negatives.py) | O(r + c) time, O(1) space | [Explanation](notes/count_sorted_matrix_negatives.md) |
