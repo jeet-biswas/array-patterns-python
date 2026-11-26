@@ -286,3 +286,4 @@ half-open intervals. See each implementation for its exact contract.
 | 258 | [Reconstruct indices of a longest increasing subsequence](arrays/reconstruct_lis_indices.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/reconstruct_lis_indices.md) |
 | 259 | [Longest strictly increasing subsequence common to two arrays](arrays/longest_common_increasing_subsequence.py) | O(nm) time, O(m) space | [Explanation](notes/longest_common_increasing_subsequence.md) |
 | 260 | [Delete the fewest values until the minimum divides another array](arrays/minimum_deletions_for_divisor.py) | O(n log n + m) GCD/arithmetic operations, O(n) space | [Explanation](notes/minimum_deletions_for_divisor.md) |
+| 261 | [Fewest neighbor-GCD replacements to make every value one](arrays/minimum_neighbor_gcd_operations.py) | O(n squared) GCD operations, O(1) auxiliary space | [Explanation](notes/minimum_neighbor_gcd_operations.md) |
