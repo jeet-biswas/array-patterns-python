@@ -282,3 +282,4 @@ half-open intervals. See each implementation for its exact contract.
 | 254 | [Count ordered sequences of reusable array values with a target sum](arrays/count_ordered_target_sums.py) | O(n + d log d + dT + T) time, O(d + T) space | [Explanation](notes/count_ordered_target_sums.md) |
 | 255 | [Longest subsequence where each value sums the preceding two](arrays/longest_fibonacci_subsequence.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/longest_fibonacci_subsequence.md) |
 | 256 | [Longest reorderable chain of repeated squaring](arrays/longest_square_streak.py) | O(n + u log u) arithmetic operations, O(u) space | [Explanation](notes/longest_square_streak.md) |
+| 257 | [Maximum nesting chain of width-height pairs](arrays/maximum_envelope_nesting.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/maximum_envelope_nesting.md) |
