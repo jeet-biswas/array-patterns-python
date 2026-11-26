@@ -262,3 +262,4 @@ half-open intervals. See each implementation for its exact contract.
 | 234 | [Largest all-one rectangle in a binary matrix](arrays/max_binary_matrix_rectangle.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/max_binary_matrix_rectangle.md) |
 | 235 | [Count all square submatrices filled with ones](arrays/count_all_one_squares.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/count_all_one_squares.md) |
 | 236 | [Answer half-open rectangle sums with two-dimensional prefixes](arrays/matrix_rectangle_sums.py) | O(r + rc + q) time, O((r + 1)(c + 1) + q) space | [Explanation](notes/matrix_rectangle_sums.md) |
+| 237 | [Count rectangular submatrices with a target sum](arrays/count_target_submatrices.py) | O(r + r squared c) expected time, O(c) auxiliary space | [Explanation](notes/count_target_submatrices.md) |
