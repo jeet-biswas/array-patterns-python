@@ -269,3 +269,4 @@ half-open intervals. See each implementation for its exact contract.
 | 241 | [Count right-and-down paths avoiding blocked cells](arrays/count_grid_paths_obstacles.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/count_grid_paths_obstacles.md) |
 | 242 | [Minimum top-to-bottom path with neighboring columns](arrays/minimum_falling_path_sum.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/minimum_falling_path_sum.md) |
 | 243 | [Longest strictly increasing path through adjacent cells](arrays/longest_increasing_matrix_path.py) | O(r + rc) time, O(rc) space | [Explanation](notes/longest_increasing_matrix_path.md) |
+| 244 | [Traverse matrix diagonals in alternating directions](arrays/diagonal_zigzag_values.py) | O(r + rc) time, O(rc) output space | [Explanation](notes/diagonal_zigzag_values.md) |
