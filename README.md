@@ -268,3 +268,4 @@ half-open intervals. See each implementation for its exact contract.
 | 240 | [Minimum right-and-down path sum through a matrix](arrays/minimum_grid_path_sum.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/minimum_grid_path_sum.md) |
 | 241 | [Count right-and-down paths avoiding blocked cells](arrays/count_grid_paths_obstacles.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/count_grid_paths_obstacles.md) |
 | 242 | [Minimum top-to-bottom path with neighboring columns](arrays/minimum_falling_path_sum.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/minimum_falling_path_sum.md) |
+| 243 | [Longest strictly increasing path through adjacent cells](arrays/longest_increasing_matrix_path.py) | O(r + rc) time, O(rc) space | [Explanation](notes/longest_increasing_matrix_path.md) |
