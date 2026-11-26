@@ -284,3 +284,4 @@ half-open intervals. See each implementation for its exact contract.
 | 256 | [Longest reorderable chain of repeated squaring](arrays/longest_square_streak.py) | O(n + u log u) arithmetic operations, O(u) space | [Explanation](notes/longest_square_streak.md) |
 | 257 | [Maximum nesting chain of width-height pairs](arrays/maximum_envelope_nesting.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/maximum_envelope_nesting.md) |
 | 258 | [Reconstruct indices of a longest increasing subsequence](arrays/reconstruct_lis_indices.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/reconstruct_lis_indices.md) |
+| 259 | [Longest strictly increasing subsequence common to two arrays](arrays/longest_common_increasing_subsequence.py) | O(nm) time, O(m) space | [Explanation](notes/longest_common_increasing_subsequence.md) |
