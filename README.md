@@ -290,3 +290,4 @@ half-open intervals. See each implementation for its exact contract.
 | 262 | [Maximize round-weighted GCD scores over disjoint pairs](arrays/max_weighted_gcd_pairing.py) | O(n squared 2^n) time, O(2^n + n squared) space | [Explanation](notes/max_weighted_gcd_pairing.md) |
 | 263 | [Count distinct nonempty value subsequences](arrays/count_distinct_value_subsequences.py) | Expected O(n) arithmetic operations, O(n) auxiliary slots | [Explanation](notes/count_distinct_value_subsequences.md) |
 | 264 | [Select a ranked permutation of distinct array values](arrays/kth_lexicographic_permutation.py) | O(n squared) arithmetic/list operations, O(n) auxiliary slots | [Explanation](notes/kth_lexicographic_permutation.md) |
+| 265 | [Rank an array among its distinct multiset permutations](arrays/multiset_permutation_rank.py) | O(nu + n + u log u) arithmetic operations, O(u) auxiliary slots | [Explanation](notes/multiset_permutation_rank.md) |
