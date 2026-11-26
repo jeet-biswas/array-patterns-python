@@ -267,3 +267,4 @@ half-open intervals. See each implementation for its exact contract.
 | 239 | [Largest rectangular sum not exceeding a limit](arrays/max_rectangle_sum_bounded.py) | O(r + r squared c squared) time, O(c) auxiliary space | [Explanation](notes/max_rectangle_sum_bounded.md) |
 | 240 | [Minimum right-and-down path sum through a matrix](arrays/minimum_grid_path_sum.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/minimum_grid_path_sum.md) |
 | 241 | [Count right-and-down paths avoiding blocked cells](arrays/count_grid_paths_obstacles.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/count_grid_paths_obstacles.md) |
+| 242 | [Minimum top-to-bottom path with neighboring columns](arrays/minimum_falling_path_sum.py) | O(r + rc) time, O(c) auxiliary space | [Explanation](notes/minimum_falling_path_sum.md) |
