@@ -264,3 +264,4 @@ half-open intervals. See each implementation for its exact contract.
 | 236 | [Answer half-open rectangle sums with two-dimensional prefixes](arrays/matrix_rectangle_sums.py) | O(r + rc + q) time, O((r + 1)(c + 1) + q) space | [Explanation](notes/matrix_rectangle_sums.md) |
 | 237 | [Count rectangular submatrices with a target sum](arrays/count_target_submatrices.py) | O(r + r squared c) expected time, O(c) auxiliary space | [Explanation](notes/count_target_submatrices.md) |
 | 238 | [Maximum sum of a nonempty rectangular submatrix](arrays/max_submatrix_sum.py) | O(r + r squared c) time, O(c) auxiliary space | [Explanation](notes/max_submatrix_sum.md) |
+| 239 | [Largest rectangular sum not exceeding a limit](arrays/max_rectangle_sum_bounded.py) | O(r + r squared c squared) time, O(c) auxiliary space | [Explanation](notes/max_rectangle_sum_bounded.md) |
