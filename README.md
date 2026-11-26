@@ -272,3 +272,4 @@ half-open intervals. See each implementation for its exact contract.
 | 244 | [Traverse matrix diagonals in alternating directions](arrays/diagonal_zigzag_values.py) | O(r + rc) time, O(rc) output space | [Explanation](notes/diagonal_zigzag_values.md) |
 | 245 | [Sum the clipped square neighborhood of every matrix cell](arrays/matrix_block_sums.py) | O(r + rc) time, O((r + 1)(c + 1)) space | [Explanation](notes/matrix_block_sums.md) |
 | 246 | [Count negatives in a nonincreasing row-and-column matrix](arrays/count_sorted_matrix_negatives.py) | O(r + c) time, O(1) space | [Explanation](notes/count_sorted_matrix_negatives.md) |
+| 247 | [Search a row-and-column sorted matrix by its boundary](arrays/contains_sorted_matrix_value.py) | O(r + c) time, O(1) space | [Explanation](notes/contains_sorted_matrix_value.md) |
