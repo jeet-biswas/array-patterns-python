@@ -274,3 +274,4 @@ half-open intervals. See each implementation for its exact contract.
 | 246 | [Count negatives in a nonincreasing row-and-column matrix](arrays/count_sorted_matrix_negatives.py) | O(r + c) time, O(1) space | [Explanation](notes/count_sorted_matrix_negatives.md) |
 | 247 | [Search a row-and-column sorted matrix by its boundary](arrays/contains_sorted_matrix_value.py) | O(r + c) time, O(1) space | [Explanation](notes/contains_sorted_matrix_value.md) |
 | 248 | [Reshape a rectangular array while preserving row-major order](arrays/reshape_rectangular_array.py) | O(r + R + rc) time, O(R + rc) output space | [Explanation](notes/reshape_rectangular_array.md) |
+| 249 | [Count splits into three nonempty equal-sum array parts](arrays/count_three_equal_sum_partitions.py) | O(n) time, O(1) space | [Explanation](notes/count_three_equal_sum_partitions.md) |
