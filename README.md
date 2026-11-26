@@ -278,3 +278,4 @@ half-open intervals. See each implementation for its exact contract.
 | 250 | [Length of the shortest roll sequence absent as a subsequence](arrays/shortest_missing_roll_sequence.py) | Expected O(n) time, O(min(n, k)) space | [Explanation](notes/shortest_missing_roll_sequence.md) |
 | 251 | [Maximum signed subset sum divisible by a chosen modulus](arrays/max_subset_sum_divisible.py) | O(nm) time, O(m) space | [Explanation](notes/max_subset_sum_divisible.md) |
 | 252 | [Fewest reusable coin denominations needed for a target](arrays/minimum_coin_count.py) | O(n + d log d + dT + T) time, O(d + T) space | [Explanation](notes/minimum_coin_count.md) |
+| 253 | [Count unordered reusable-coin combinations for a target](arrays/count_coin_combinations.py) | O(n + d log d + dT + T) time, O(d + T) space | [Explanation](notes/count_coin_combinations.md) |
