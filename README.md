@@ -291,3 +291,4 @@ half-open intervals. See each implementation for its exact contract.
 | 263 | [Count distinct nonempty value subsequences](arrays/count_distinct_value_subsequences.py) | Expected O(n) arithmetic operations, O(n) auxiliary slots | [Explanation](notes/count_distinct_value_subsequences.md) |
 | 264 | [Select a ranked permutation of distinct array values](arrays/kth_lexicographic_permutation.py) | O(n squared) arithmetic/list operations, O(n) auxiliary slots | [Explanation](notes/kth_lexicographic_permutation.md) |
 | 265 | [Rank an array among its distinct multiset permutations](arrays/multiset_permutation_rank.py) | O(nu + n + u log u) arithmetic operations, O(u) auxiliary slots | [Explanation](notes/multiset_permutation_rank.md) |
+| 266 | [Pair two arrays to minimize total absolute difference](arrays/minimum_absolute_pairing_cost.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_absolute_pairing_cost.md) |
