@@ -280,3 +280,4 @@ half-open intervals. See each implementation for its exact contract.
 | 252 | [Fewest reusable coin denominations needed for a target](arrays/minimum_coin_count.py) | O(n + d log d + dT + T) time, O(d + T) space | [Explanation](notes/minimum_coin_count.md) |
 | 253 | [Count unordered reusable-coin combinations for a target](arrays/count_coin_combinations.py) | O(n + d log d + dT + T) time, O(d + T) space | [Explanation](notes/count_coin_combinations.md) |
 | 254 | [Count ordered sequences of reusable array values with a target sum](arrays/count_ordered_target_sums.py) | O(n + d log d + dT + T) time, O(d + T) space | [Explanation](notes/count_ordered_target_sums.md) |
+| 255 | [Longest subsequence where each value sums the preceding two](arrays/longest_fibonacci_subsequence.py) | Expected O(n squared) time, O(n squared) space | [Explanation](notes/longest_fibonacci_subsequence.md) |
