@@ -304,3 +304,4 @@ half-open intervals. See each implementation for its exact contract.
 | 276 | [Maximum increasing-size groups under per-value usage limits](arrays/maximum_increasing_usage_groups.py) | O(n log n) time, O(n) space | [Explanation](notes/maximum_increasing_usage_groups.md) |
 | 277 | [Minimum cross-array swap cost to equalize two multisets](arrays/minimum_basket_swap_cost.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_basket_swap_cost.md) |
 | 278 | [Build a nonnegative target using unit subarray increments](arrays/minimum_range_increments.py) | O(n) time, O(1) space | [Explanation](notes/minimum_range_increments.md) |
+| 279 | [Transform one array into another with unit interval additions](arrays/minimum_signed_range_operations.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/minimum_signed_range_operations.md) |
