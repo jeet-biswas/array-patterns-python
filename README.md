@@ -296,3 +296,4 @@ half-open intervals. See each implementation for its exact contract.
 | 268 | [Fewest same-index swaps making both arrays strictly increasing](arrays/minimum_swaps_increasing_arrays.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/minimum_swaps_increasing_arrays.md) |
 | 269 | [Minimum radius-array taps covering a continuous garden](arrays/minimum_garden_taps.py) | O(n) time, O(n) space | [Explanation](notes/minimum_garden_taps.md) |
 | 270 | [Minimum cost of one-day, seven-day and thirty-day travel passes](arrays/minimum_travel_ticket_cost.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_travel_ticket_cost.md) |
+| 271 | [Assign reusable jobs to workers for maximum total profit](arrays/max_worker_assignment_profit.py) | O(n log n + m log m) time, O(n + m) space | [Explanation](notes/max_worker_assignment_profit.md) |
