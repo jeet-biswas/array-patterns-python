@@ -300,3 +300,4 @@ half-open intervals. See each implementation for its exact contract.
 | 272 | [Count subarrays whose lower median is a given distinct value](arrays/count_subarrays_median_value.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_subarrays_median_value.md) |
 | 273 | [Count windows whose sum times length is below a limit](arrays/count_subarrays_below_score.py) | O(n) time, O(1) space | [Explanation](notes/count_subarrays_below_score.md) |
 | 274 | [Fewest deletions leaving an even array of unequal neighbor pairs](arrays/minimum_deletions_unequal_pairs.py) | O(n) time, O(1) space | [Explanation](notes/minimum_deletions_unequal_pairs.md) |
+| 275 | [Empty an array by removing equal-value pairs or triples](arrays/minimum_equal_group_removals.py) | Expected O(n) time, O(n) space | [Explanation](notes/minimum_equal_group_removals.md) |
