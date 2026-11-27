@@ -293,3 +293,4 @@ half-open intervals. See each implementation for its exact contract.
 | 265 | [Rank an array among its distinct multiset permutations](arrays/multiset_permutation_rank.py) | O(nu + n + u log u) arithmetic operations, O(u) auxiliary slots | [Explanation](notes/multiset_permutation_rank.md) |
 | 266 | [Pair two arrays to minimize total absolute difference](arrays/minimum_absolute_pairing_cost.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_absolute_pairing_cost.md) |
 | 267 | [Reorder values to maximize the total of requested ranges](arrays/maximize_requested_range_sum.py) | O(n log n + q) time, O(n) space | [Explanation](notes/maximize_requested_range_sum.md) |
+| 268 | [Fewest same-index swaps making both arrays strictly increasing](arrays/minimum_swaps_increasing_arrays.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/minimum_swaps_increasing_arrays.md) |
