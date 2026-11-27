@@ -307,3 +307,4 @@ half-open intervals. See each implementation for its exact contract.
 | 279 | [Transform one array into another with unit interval additions](arrays/minimum_signed_range_operations.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/minimum_signed_range_operations.md) |
 | 280 | [Count strict 1324-pattern index quadruplets](arrays/count_1324_quadruplets.py) | O(n squared) time, O(n) space | [Explanation](notes/count_1324_quadruplets.md) |
 | 281 | [Split an array into two nonempty groups with equal averages](arrays/can_split_same_average.py) | Expected O(n squared R) time, O(nR) space | [Explanation](notes/can_split_same_average.md) |
+| 282 | [Smallest distance from a target to any subset sum](arrays/closest_subset_sum_difference.py) | O(n 2^ceil(n/2)) time, O(2^ceil(n/2)) space | [Explanation](notes/closest_subset_sum_difference.md) |
