@@ -308,3 +308,4 @@ half-open intervals. See each implementation for its exact contract.
 | 280 | [Count strict 1324-pattern index quadruplets](arrays/count_1324_quadruplets.py) | O(n squared) time, O(n) space | [Explanation](notes/count_1324_quadruplets.md) |
 | 281 | [Split an array into two nonempty groups with equal averages](arrays/can_split_same_average.py) | Expected O(n squared R) time, O(nR) space | [Explanation](notes/can_split_same_average.md) |
 | 282 | [Smallest distance from a target to any subset sum](arrays/closest_subset_sum_difference.py) | O(n 2^ceil(n/2)) time, O(2^ceil(n/2)) space | [Explanation](notes/closest_subset_sum_difference.md) |
+| 283 | [Partition into equal-sized groups with minimum sum difference](arrays/minimum_balanced_partition_difference.py) | O(n 2^(n/2)) time, O(2^(n/2)) space | [Explanation](notes/minimum_balanced_partition_difference.md) |
