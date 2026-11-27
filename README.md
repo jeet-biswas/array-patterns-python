@@ -299,3 +299,4 @@ half-open intervals. See each implementation for its exact contract.
 | 271 | [Assign reusable jobs to workers for maximum total profit](arrays/max_worker_assignment_profit.py) | O(n log n + m log m) time, O(n + m) space | [Explanation](notes/max_worker_assignment_profit.md) |
 | 272 | [Count subarrays whose lower median is a given distinct value](arrays/count_subarrays_median_value.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_subarrays_median_value.md) |
 | 273 | [Count windows whose sum times length is below a limit](arrays/count_subarrays_below_score.py) | O(n) time, O(1) space | [Explanation](notes/count_subarrays_below_score.md) |
+| 274 | [Fewest deletions leaving an even array of unequal neighbor pairs](arrays/minimum_deletions_unequal_pairs.py) | O(n) time, O(1) space | [Explanation](notes/minimum_deletions_unequal_pairs.md) |
