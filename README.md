@@ -310,3 +310,4 @@ half-open intervals. See each implementation for its exact contract.
 | 282 | [Smallest distance from a target to any subset sum](arrays/closest_subset_sum_difference.py) | O(n 2^ceil(n/2)) time, O(2^ceil(n/2)) space | [Explanation](notes/closest_subset_sum_difference.md) |
 | 283 | [Partition into equal-sized groups with minimum sum difference](arrays/minimum_balanced_partition_difference.py) | O(n 2^(n/2)) time, O(2^(n/2)) space | [Explanation](notes/minimum_balanced_partition_difference.md) |
 | 284 | [Count contiguous partitions that never split equal values](arrays/count_value_disjoint_partitions.py) | Expected O(n) arithmetic operations, O(n) space | [Explanation](notes/count_value_disjoint_partitions.md) |
+| 285 | [Count nonempty index subsets avoiding a fixed value difference](arrays/count_subsets_avoiding_difference.py) | O(n + u log u) arithmetic operations, O(u) auxiliary slots | [Explanation](notes/count_subsets_avoiding_difference.md) |
