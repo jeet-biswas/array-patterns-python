@@ -298,3 +298,4 @@ half-open intervals. See each implementation for its exact contract.
 | 270 | [Minimum cost of one-day, seven-day and thirty-day travel passes](arrays/minimum_travel_ticket_cost.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/minimum_travel_ticket_cost.md) |
 | 271 | [Assign reusable jobs to workers for maximum total profit](arrays/max_worker_assignment_profit.py) | O(n log n + m log m) time, O(n + m) space | [Explanation](notes/max_worker_assignment_profit.md) |
 | 272 | [Count subarrays whose lower median is a given distinct value](arrays/count_subarrays_median_value.py) | Expected O(n) time, O(n) space | [Explanation](notes/count_subarrays_median_value.md) |
+| 273 | [Count windows whose sum times length is below a limit](arrays/count_subarrays_below_score.py) | O(n) time, O(1) space | [Explanation](notes/count_subarrays_below_score.md) |
