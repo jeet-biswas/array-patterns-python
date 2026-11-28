@@ -350,3 +350,4 @@ half-open intervals. See each implementation for its exact contract.
 | 322 | [Count target-sum triplets with duplicate index multiplicities](arrays/count_triplets_target_multiplicity.py) | O(n + u squared) time, O(u) space | [Explanation](notes/count_triplets_target_multiplicity.md) |
 | 323 | [Count all strictly smaller array elements for each position](arrays/count_smaller_values.py) | O(n + u log u) time, O(n + u) space | [Explanation](notes/count_smaller_values.md) |
 | 324 | [Choose k array elements with the smallest value range](arrays/minimum_k_value_spread.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_k_value_spread.md) |
+| 325 | [Largest difference between values from different sorted arrays](arrays/maximum_distance_between_arrays.py) | O(m) time, O(1) auxiliary space | [Explanation](notes/maximum_distance_between_arrays.md) |
