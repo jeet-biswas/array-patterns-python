@@ -318,3 +318,4 @@ half-open intervals. See each implementation for its exact contract.
 | 290 | [Stably sort integer-key records with bounded keys](arrays/stable_counting_sort_records.py) | O(n + k) time, O(n + k) space | [Explanation](notes/stable_counting_sort_records.md) |
 | 291 | [Select an order statistic using three-way in-place partitioning](arrays/quickselect_three_way.py) | O(n) typical, O(n squared) worst-case time, O(1) auxiliary space | [Explanation](notes/quickselect_three_way.md) |
 | 292 | [Rearrange values in place using a destination permutation](arrays/apply_index_permutation.py) | O(n) time, O(n) auxiliary space | [Explanation](notes/apply_index_permutation.md) |
+| 293 | [Construct the inverse of an index permutation](arrays/inverse_index_permutation.py) | O(n) time, O(n) space | [Explanation](notes/inverse_index_permutation.md) |
