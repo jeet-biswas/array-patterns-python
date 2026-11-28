@@ -322,3 +322,4 @@ half-open intervals. See each implementation for its exact contract.
 | 294 | [Raise an index permutation to any signed integer power](arrays/index_permutation_power.py) | O(n) index operations, O(n) space | [Explanation](notes/index_permutation_power.md) |
 | 295 | [Move to the previous lexicographic array permutation in place](arrays/previous_permutation.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/previous_permutation.md) |
 | 296 | [Partition an array into less-than, equal and greater-than regions](arrays/partition_around_pivot.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/partition_around_pivot.md) |
+| 297 | [Rearrange an array into alternating non-strict peaks and valleys](arrays/wiggle_sort_non_strict.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/wiggle_sort_non_strict.md) |
