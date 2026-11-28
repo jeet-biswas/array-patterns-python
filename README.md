@@ -321,3 +321,4 @@ half-open intervals. See each implementation for its exact contract.
 | 293 | [Construct the inverse of an index permutation](arrays/inverse_index_permutation.py) | O(n) time, O(n) space | [Explanation](notes/inverse_index_permutation.md) |
 | 294 | [Raise an index permutation to any signed integer power](arrays/index_permutation_power.py) | O(n) index operations, O(n) space | [Explanation](notes/index_permutation_power.md) |
 | 295 | [Move to the previous lexicographic array permutation in place](arrays/previous_permutation.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/previous_permutation.md) |
+| 296 | [Partition an array into less-than, equal and greater-than regions](arrays/partition_around_pivot.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/partition_around_pivot.md) |
