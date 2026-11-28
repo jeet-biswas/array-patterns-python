@@ -323,3 +323,4 @@ half-open intervals. See each implementation for its exact contract.
 | 295 | [Move to the previous lexicographic array permutation in place](arrays/previous_permutation.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/previous_permutation.md) |
 | 296 | [Partition an array into less-than, equal and greater-than regions](arrays/partition_around_pivot.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/partition_around_pivot.md) |
 | 297 | [Rearrange an array into alternating non-strict peaks and valleys](arrays/wiggle_sort_non_strict.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/wiggle_sort_non_strict.md) |
+| 298 | [Select the k smallest array values in sorted order](arrays/smallest_k_values.py) | O(n log(k + 1) + k) time, O(k) space | [Explanation](notes/smallest_k_values.md) |
