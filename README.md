@@ -343,3 +343,4 @@ half-open intervals. See each implementation for its exact contract.
 | 315 | [Largest XOR over all contiguous nonempty subarrays](arrays/maximum_subarray_xor.py) | O(nB) bit operations, O(nB) space | [Explanation](notes/maximum_subarray_xor.md) |
 | 316 | [Largest array OR after shifting one chosen value](arrays/maximum_or_one_shift.py) | O(n) bitwise operations, O(n) auxiliary integer slots | [Explanation](notes/maximum_or_one_shift.md) |
 | 317 | [Answer static range AND queries with a sparse table](arrays/range_bitwise_and_queries.py) | O(n log(n + 1) + q) bitwise operations, O(n log(n + 1) + q) space | [Explanation](notes/range_bitwise_and_queries.md) |
+| 318 | [Largest pair sum among values with equal decimal digit sums](arrays/max_pair_sum_equal_digit_sum.py) | O(nD) digit operations, O(n) space | [Explanation](notes/max_pair_sum_equal_digit_sum.md) |
