@@ -347,3 +347,4 @@ half-open intervals. See each implementation for its exact contract.
 | 319 | [Minimize squared paired differences with a unit-change budget](arrays/minimum_squared_pair_difference.py) | O(n log(D + 1)) time, O(n) space | [Explanation](notes/minimum_squared_pair_difference.md) |
 | 320 | [Largest product of three distinct-index array elements](arrays/maximum_product_three_values.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/maximum_product_three_values.md) |
 | 321 | [Count index triplets below a strict sum threshold](arrays/count_triplets_below_sum.py) | O(n squared) time, O(n) space | [Explanation](notes/count_triplets_below_sum.md) |
+| 322 | [Count target-sum triplets with duplicate index multiplicities](arrays/count_triplets_target_multiplicity.py) | O(n + u squared) time, O(u) space | [Explanation](notes/count_triplets_target_multiplicity.md) |
