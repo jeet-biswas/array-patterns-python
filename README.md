@@ -349,3 +349,4 @@ half-open intervals. See each implementation for its exact contract.
 | 321 | [Count index triplets below a strict sum threshold](arrays/count_triplets_below_sum.py) | O(n squared) time, O(n) space | [Explanation](notes/count_triplets_below_sum.md) |
 | 322 | [Count target-sum triplets with duplicate index multiplicities](arrays/count_triplets_target_multiplicity.py) | O(n + u squared) time, O(u) space | [Explanation](notes/count_triplets_target_multiplicity.md) |
 | 323 | [Count all strictly smaller array elements for each position](arrays/count_smaller_values.py) | O(n + u log u) time, O(n + u) space | [Explanation](notes/count_smaller_values.md) |
+| 324 | [Choose k array elements with the smallest value range](arrays/minimum_k_value_spread.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_k_value_spread.md) |
