@@ -331,3 +331,4 @@ half-open intervals. See each implementation for its exact contract.
 | 303 | [Count specified values inside many half-open array ranges](arrays/range_value_frequencies.py) | O(n + q log(n + 1)) time, O(n + q) space | [Explanation](notes/range_value_frequencies.md) |
 | 304 | [Count values above query thresholds inside array ranges](arrays/offline_range_greater_counts.py) | O((n + q) log(n + q + 2)) time, O(n + q) space | [Explanation](notes/offline_range_greater_counts.md) |
 | 305 | [Shortest window containing a required multiset of values](arrays/minimum_multiset_cover_window.py) | Expected O(n + m) time, O(u) auxiliary space | [Explanation](notes/minimum_multiset_cover_window.md) |
+| 306 | [Shortest contiguous window containing an ordered subsequence](arrays/shortest_subsequence_window.py) | O(nm) time, O(m) auxiliary space | [Explanation](notes/shortest_subsequence_window.md) |
