@@ -351,3 +351,4 @@ half-open intervals. See each implementation for its exact contract.
 | 323 | [Count all strictly smaller array elements for each position](arrays/count_smaller_values.py) | O(n + u log u) time, O(n + u) space | [Explanation](notes/count_smaller_values.md) |
 | 324 | [Choose k array elements with the smallest value range](arrays/minimum_k_value_spread.py) | O(n log n) time, O(n) space | [Explanation](notes/minimum_k_value_spread.md) |
 | 325 | [Largest difference between values from different sorted arrays](arrays/maximum_distance_between_arrays.py) | O(m) time, O(1) auxiliary space | [Explanation](notes/maximum_distance_between_arrays.md) |
+| 326 | [Smallest common heater radius covering all house positions](arrays/minimum_heater_radius.py) | O(m log m + n log(m + 1)) time, O(m) space | [Explanation](notes/minimum_heater_radius.md) |
