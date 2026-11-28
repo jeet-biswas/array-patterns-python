@@ -313,3 +313,4 @@ half-open intervals. See each implementation for its exact contract.
 | 285 | [Count nonempty index subsets avoiding a fixed value difference](arrays/count_subsets_avoiding_difference.py) | O(n + u log u) arithmetic operations, O(u) auxiliary slots | [Explanation](notes/count_subsets_avoiding_difference.md) |
 | 286 | [Count distinct permutations whose neighbor sums are perfect squares](arrays/count_square_sum_permutations.py) | O(n squared 2^n) state-transition operations, O(n 2^n + n squared) space | [Explanation](notes/count_square_sum_permutations.md) |
 | 287 | [Sort an array in place using a binary max heap](arrays/heap_sort_in_place.py) | O(n log(n + 1)) time, O(1) auxiliary space | [Explanation](notes/heap_sort_in_place.md) |
+| 288 | [Sort by iteratively merging runs of doubling length](arrays/bottom_up_merge_sort.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/bottom_up_merge_sort.md) |
