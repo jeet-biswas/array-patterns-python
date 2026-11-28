@@ -325,3 +325,4 @@ half-open intervals. See each implementation for its exact contract.
 | 297 | [Rearrange an array into alternating non-strict peaks and valleys](arrays/wiggle_sort_non_strict.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/wiggle_sort_non_strict.md) |
 | 298 | [Select the k smallest array values in sorted order](arrays/smallest_k_values.py) | O(n log(k + 1) + k) time, O(k) space | [Explanation](notes/smallest_k_values.md) |
 | 299 | [Select the most frequent values with deterministic ties](arrays/top_k_frequent_values.py) | O(n + u log(k + 1) + k log(k + 1)) time, O(u + k) space | [Explanation](notes/top_k_frequent_values.md) |
+| 300 | [Find missing domain values using reversible sign marking](arrays/missing_numbers_one_to_n.py) | O(n) time, O(1) auxiliary space beyond output | [Explanation](notes/missing_numbers_one_to_n.md) |
