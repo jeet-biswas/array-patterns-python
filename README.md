@@ -316,3 +316,4 @@ half-open intervals. See each implementation for its exact contract.
 | 288 | [Sort by iteratively merging runs of doubling length](arrays/bottom_up_merge_sort.py) | O(n log(n + 1)) time, O(n) space | [Explanation](notes/bottom_up_merge_sort.md) |
 | 289 | [Sort signed integers with stable byte-wise radix passes](arrays/signed_radix_sort.py) | O((n + 256)B) digit operations, O(n + 256) space | [Explanation](notes/signed_radix_sort.md) |
 | 290 | [Stably sort integer-key records with bounded keys](arrays/stable_counting_sort_records.py) | O(n + k) time, O(n + k) space | [Explanation](notes/stable_counting_sort_records.md) |
+| 291 | [Select an order statistic using three-way in-place partitioning](arrays/quickselect_three_way.py) | O(n) typical, O(n squared) worst-case time, O(1) auxiliary space | [Explanation](notes/quickselect_three_way.md) |
