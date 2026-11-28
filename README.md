@@ -337,3 +337,4 @@ half-open intervals. See each implementation for its exact contract.
 | 309 | [Shortest window at each index attaining its entire suffix OR](arrays/shortest_suffix_or_windows.py) | O(nB) bit operations, O(B) auxiliary space plus output | [Explanation](notes/shortest_suffix_or_windows.md) |
 | 310 | [Longest window attaining the maximum possible subarray AND](arrays/longest_maximum_and_subarray.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/longest_maximum_and_subarray.md) |
 | 311 | [Count contiguous subarrays with a specified bitwise AND](arrays/count_subarrays_and_value.py) | Expected O(nB) map/bitwise operations, O(B) states | [Explanation](notes/count_subarrays_and_value.md) |
+| 312 | [Closest bitwise-AND window value to a target](arrays/closest_subarray_and_difference.py) | Expected O(nB) set/bitwise operations, O(B) states | [Explanation](notes/closest_subarray_and_difference.md) |
