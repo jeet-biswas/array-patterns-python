@@ -339,3 +339,4 @@ half-open intervals. See each implementation for its exact contract.
 | 311 | [Count contiguous subarrays with a specified bitwise AND](arrays/count_subarrays_and_value.py) | Expected O(nB) map/bitwise operations, O(B) states | [Explanation](notes/count_subarrays_and_value.md) |
 | 312 | [Closest bitwise-AND window value to a target](arrays/closest_subarray_and_difference.py) | Expected O(nB) set/bitwise operations, O(B) states | [Explanation](notes/closest_subarray_and_difference.md) |
 | 313 | [Count index pairs whose XOR lies in an inclusive interval](arrays/count_pairs_xor_interval.py) | O(nB) bit operations, O(nB) space | [Explanation](notes/count_pairs_xor_interval.md) |
+| 314 | [Answer maximum-XOR queries with value upper limits](arrays/max_xor_under_limits.py) | O(n log n + q log q + (n + q)B) time, O(nB + q) space | [Explanation](notes/max_xor_under_limits.md) |
