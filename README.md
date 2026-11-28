@@ -327,3 +327,4 @@ half-open intervals. See each implementation for its exact contract.
 | 299 | [Select the most frequent values with deterministic ties](arrays/top_k_frequent_values.py) | O(n + u log(k + 1) + k log(k + 1)) time, O(u + k) space | [Explanation](notes/top_k_frequent_values.md) |
 | 300 | [Find missing domain values using reversible sign marking](arrays/missing_numbers_one_to_n.py) | O(n) time, O(1) auxiliary space beyond output | [Explanation](notes/missing_numbers_one_to_n.md) |
 | 301 | [Find a repeated domain value by cycle detection](arrays/find_duplicate_cycle.py) | O(n) time, O(1) space | [Explanation](notes/find_duplicate_cycle.md) |
+| 302 | [Find all values occurring more than one third of the time](arrays/majority_over_third.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/majority_over_third.md) |
