@@ -345,3 +345,4 @@ half-open intervals. See each implementation for its exact contract.
 | 317 | [Answer static range AND queries with a sparse table](arrays/range_bitwise_and_queries.py) | O(n log(n + 1) + q) bitwise operations, O(n log(n + 1) + q) space | [Explanation](notes/range_bitwise_and_queries.md) |
 | 318 | [Largest pair sum among values with equal decimal digit sums](arrays/max_pair_sum_equal_digit_sum.py) | O(nD) digit operations, O(n) space | [Explanation](notes/max_pair_sum_equal_digit_sum.md) |
 | 319 | [Minimize squared paired differences with a unit-change budget](arrays/minimum_squared_pair_difference.py) | O(n log(D + 1)) time, O(n) space | [Explanation](notes/minimum_squared_pair_difference.md) |
+| 320 | [Largest product of three distinct-index array elements](arrays/maximum_product_three_values.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/maximum_product_three_values.md) |
