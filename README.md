@@ -344,3 +344,4 @@ half-open intervals. See each implementation for its exact contract.
 | 316 | [Largest array OR after shifting one chosen value](arrays/maximum_or_one_shift.py) | O(n) bitwise operations, O(n) auxiliary integer slots | [Explanation](notes/maximum_or_one_shift.md) |
 | 317 | [Answer static range AND queries with a sparse table](arrays/range_bitwise_and_queries.py) | O(n log(n + 1) + q) bitwise operations, O(n log(n + 1) + q) space | [Explanation](notes/range_bitwise_and_queries.md) |
 | 318 | [Largest pair sum among values with equal decimal digit sums](arrays/max_pair_sum_equal_digit_sum.py) | O(nD) digit operations, O(n) space | [Explanation](notes/max_pair_sum_equal_digit_sum.md) |
+| 319 | [Minimize squared paired differences with a unit-change budget](arrays/minimum_squared_pair_difference.py) | O(n log(D + 1)) time, O(n) space | [Explanation](notes/minimum_squared_pair_difference.md) |
