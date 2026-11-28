@@ -341,3 +341,4 @@ half-open intervals. See each implementation for its exact contract.
 | 313 | [Count index pairs whose XOR lies in an inclusive interval](arrays/count_pairs_xor_interval.py) | O(nB) bit operations, O(nB) space | [Explanation](notes/count_pairs_xor_interval.md) |
 | 314 | [Answer maximum-XOR queries with value upper limits](arrays/max_xor_under_limits.py) | O(n log n + q log q + (n + q)B) time, O(nB + q) space | [Explanation](notes/max_xor_under_limits.md) |
 | 315 | [Largest XOR over all contiguous nonempty subarrays](arrays/maximum_subarray_xor.py) | O(nB) bit operations, O(nB) space | [Explanation](notes/maximum_subarray_xor.md) |
+| 316 | [Largest array OR after shifting one chosen value](arrays/maximum_or_one_shift.py) | O(n) bitwise operations, O(n) auxiliary integer slots | [Explanation](notes/maximum_or_one_shift.md) |
