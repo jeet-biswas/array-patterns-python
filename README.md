@@ -338,3 +338,4 @@ half-open intervals. See each implementation for its exact contract.
 | 310 | [Longest window attaining the maximum possible subarray AND](arrays/longest_maximum_and_subarray.py) | O(n) time, O(1) auxiliary space | [Explanation](notes/longest_maximum_and_subarray.md) |
 | 311 | [Count contiguous subarrays with a specified bitwise AND](arrays/count_subarrays_and_value.py) | Expected O(nB) map/bitwise operations, O(B) states | [Explanation](notes/count_subarrays_and_value.md) |
 | 312 | [Closest bitwise-AND window value to a target](arrays/closest_subarray_and_difference.py) | Expected O(nB) set/bitwise operations, O(B) states | [Explanation](notes/closest_subarray_and_difference.md) |
+| 313 | [Count index pairs whose XOR lies in an inclusive interval](arrays/count_pairs_xor_interval.py) | O(nB) bit operations, O(nB) space | [Explanation](notes/count_pairs_xor_interval.md) |
