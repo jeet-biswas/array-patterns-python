@@ -334,3 +334,4 @@ half-open intervals. See each implementation for its exact contract.
 | 306 | [Shortest contiguous window containing an ordered subsequence](arrays/shortest_subsequence_window.py) | O(nm) time, O(m) auxiliary space | [Explanation](notes/shortest_subsequence_window.md) |
 | 307 | [Count nonempty index subsets attaining the largest bitwise OR](arrays/count_maximum_or_subsets.py) | Expected O(nR) map/bitwise operations, O(R) states | [Explanation](notes/count_maximum_or_subsets.md) |
 | 308 | [Sum XOR results over every index subset](arrays/sum_subset_xors.py) | O(n) bitwise operations, O(1) auxiliary integer slots | [Explanation](notes/sum_subset_xors.md) |
+| 309 | [Shortest window at each index attaining its entire suffix OR](arrays/shortest_suffix_or_windows.py) | O(nB) bit operations, O(B) auxiliary space plus output | [Explanation](notes/shortest_suffix_or_windows.md) |
